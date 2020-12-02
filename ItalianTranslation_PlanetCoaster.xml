@@ -39,19 +39,19 @@
 		<entry key="Blueprints_AmeliesCastleBlueprint" translation="TrickyPlaysGames - I Karts del Castello della Principessa Amelie"/>
 		<entry key="Blueprints_AmeliesCastleBlueprintDesc" translation="Il progetto vincitore della Competizione dei Go-Karts, I Karts del Castello della Principessa Amelie di TrickyPlaysGames"/>
 		<entry key="Blueprints_AmericanArrowBlueprint01" translation="Screamer"/>
-		<entry key="Blueprints_AmericanArrowBlueprint01Desc" translation="Uno schema per il coaster Looping"/>
+		<entry key="Blueprints_AmericanArrowBlueprint01Desc" translation="Uno schema per il coaster Looping  "/>
 		<entry key="Blueprints_Anubis01" translation="Nephthys"/>
 		<entry key="Blueprints_Anubis01Desc" translation="Uno schema per l'Anubis Hypercoaster"/>
 		<entry key="Blueprints_AnubisBlueprint01" translation="Nephthys"/>
 		<entry key="Blueprints_AnubisBlueprint01Desc" translation="Uno schema per l'Hypercoaster"/>
 		<entry key="Blueprints_BakasuraBlueprint01" translation="Labrys"/>
-		<entry key="Blueprints_BakasuraBlueprint01Desc" translation="Uno schema per il coaster Giant Inverted Boomerang"/>
+		<entry key="Blueprints_BakasuraBlueprint01Desc" translation="Uno schema per il coaster Giant Inverted Boomerang "/>
 		<entry key="Blueprints_BarghestBlueprint01" translation="The Bear-Demon"/>
 		<entry key="Blueprints_BarghestBlueprint01Desc" translation="Uno schema per il coaster Typhoon"/>
 		<entry key="Blueprints_BasiliskBlueprint01" translation="The Little King"/>
 		<entry key="Blueprints_BasiliskBlueprint01Desc" translation="Uno schema per il coaster Single Rail"/>
 		<entry key="Blueprints_BlackFalconBlueprint01" translation="Falco"/>
-		<entry key="Blueprints_BlackFalconBlueprint01Desc" translation="Uno schema per il coaster Wing"/>
+		<entry key="Blueprints_BlackFalconBlueprint01Desc" translation="Uno schema per il coaster Wing "/>
 		<entry key="Blueprints_BlueprintCostTitle" translation="Prezzo nel Gioco:"/>
 		<entry key="Blueprints_BlueprintDetails" translation="Dettagli Progetto"/>
 		<entry key="Blueprints_BoaBlueprint01" translation="Venom"/>
@@ -587,7 +587,7 @@
 		<entry key="Blueprints_WesternShopping" translation="Area Shopping Western"/>
 		<entry key="Blueprints_WesternShoppingDesc" translation="Il centro commerciale è stato inaugurato alla Frontiera! Hai abbastanza parcheggio per un intero treno di carrozze."/>
 		<entry key="Blueprints_WesternSmallEnt" translation="Piccola entrata Western"/>
-		<entry key="Blueprints_WesternSmallEntDesc" translation="Non c'è niente di meglio che iniziare il proprio parco con quest'entrata."/>
+		<entry key="Blueprints_WesternSmallEntDesc" translation="Non c'è niente di meglio che iniziare il proprio parco con questa entrata."/>
 		<entry key="Blueprints_WesternThemedShops" translation="Negozi a tema Western"/>
 		<entry key="Blueprints_WesternThemedShopsDesc" translation="I visitatori che girano per il parco potranno fermarsi qui per approfittare delle strutture"/>
 		<entry key="Blueprints_WesternToilets" translation="Blocco di bagni Western"/>
@@ -6377,94 +6377,94 @@
 		<entry key="BuildingPartName_VT_Narcissus_Round" translation="Cerchio di Fiori di Narciso"/>
 		<entry key="BuildingPartName_VT_Narcissus_Square" translation="Quadrato di Fiori di Narciso"/>
 		<entry key="BuildingPartName_VT_Petunias" translation="Fiori di Petunia"/>
-		<entry key="BuildingPartName_VT_Planter_AngleExt_Block_ST" translation="Modular Planter Base Corner 6"/>
-		<entry key="BuildingPartName_VT_Planter_AngleExt_ST" translation="Modular Planter Top Corner 6"/>
-		<entry key="BuildingPartName_VT_Planter_Corner90oSmooth_Block_ST" translation="Modular Planter Base Corner 2"/>
-		<entry key="BuildingPartName_VT_Planter_Corner90oSmooth_ST" translation="Modular Planter Top Corner 2"/>
-		<entry key="BuildingPartName_VT_Planter_Corner90o_Block_ST" translation="Modular Planter Base Corner 1"/>
-		<entry key="BuildingPartName_VT_Planter_Corner90o_ST" translation="Modular Planter Top Corner 1"/>
-		<entry key="BuildingPartName_VT_Planter_CornerCurve_Block_ST" translation="Modular Planter Base Corner 3"/>
-		<entry key="BuildingPartName_VT_Planter_CornerCurve_ST" translation="Modular Planter Top Corner 3"/>
-		<entry key="BuildingPartName_VT_Planter_CornerRndAngle_Block_ST" translation="Modular Planter Base Corner 5"/>
-		<entry key="BuildingPartName_VT_Planter_CornerRndAngle_ST" translation="Modular Planter Top Corner 5"/>
-		<entry key="BuildingPartName_VT_Planter_CornerRnd_Block_ST" translation="Modular Planter Base Corner 4"/>
-		<entry key="BuildingPartName_VT_Planter_CornerRnd_ST" translation="Modular Planter Top Corner 4"/>
-		<entry key="BuildingPartName_VT_Planter_CurveExt_Block_ST" translation="Modular Planter Base Corner 7"/>
-		<entry key="BuildingPartName_VT_Planter_CurveExt_ST" translation="Modular Planter Top Corner 7"/>
-		<entry key="BuildingPartName_VT_Planter_CurveInt_Block_ST" translation="Modular Planter Base Corner Insert"/>
-		<entry key="BuildingPartName_VT_Planter_CurveInt_ST" translation="Modular Planter Top Corner Insert"/>
-		<entry key="BuildingPartName_VT_Planter_Edge_Block_ST" translation="Modular Planter Base"/>
-		<entry key="BuildingPartName_VT_Planter_Edge_ST" translation="Modular Planter Top Edge"/>
-		<entry key="BuildingPartName_VT_Planter_NoEdge_Block_ST" translation="Modular Planter Base No Edge"/>
-		<entry key="BuildingPartName_VT_Planter_NoEdge_ST" translation="Modular Planter Top No Edge"/>
-		<entry key="BuildingPartName_VT_Planter_RndExt_Block_ST" translation="Modular Planter Base Corner 8"/>
-		<entry key="BuildingPartName_VT_Planter_RndExt_ST" translation="Modular Planter Top Corner 8"/>
-		<entry key="BuildingPartName_VT_Planter_SquareEndCap_Block_ST" translation="Modular Planter Base End Cap"/>
-		<entry key="BuildingPartName_VT_Planter_SquareEndCap_ST" translation="Modular Planter Top End Cap"/>
-		<entry key="BuildingPartName_VT_Planter_Thin_2m_ST" translation="Modular Planter Thin 2m"/>
-		<entry key="BuildingPartName_VT_Planter_Thin_4m_ST" translation="Modular Planter Thin 4m"/>
-		<entry key="BuildingPartName_VT_Planter_Thin_Corner_4m_ST" translation="Modular Planter Thin Corner 4m"/>
-		<entry key="BuildingPartName_VT_Planter_Thin_Curve_4m_ST" translation="Modular Planter Thin Curve 4m"/>
-		<entry key="BuildingPartName_VT_Planter_Thin_EndCap_Circle_ST" translation="Modular Planter Thin End Circle"/>
-		<entry key="BuildingPartName_VT_Planter_Thin_EndCap_Square_ST" translation="Modular Planter Thin End Square"/>
+		<entry key="BuildingPartName_VT_Planter_AngleExt_Block_ST" translation="Fioriera modulare Base ad angolo 6"/>
+		<entry key="BuildingPartName_VT_Planter_AngleExt_ST" translation="Fioriera modulare Top ad angolo 6"/>
+		<entry key="BuildingPartName_VT_Planter_Corner90oSmooth_Block_ST" translation="Fioriera modulare Base ad angolo 2"/>
+		<entry key="BuildingPartName_VT_Planter_Corner90oSmooth_ST" translation="Fioriera modulare Top ad angolo 2"/>
+		<entry key="BuildingPartName_VT_Planter_Corner90o_Block_ST" translation="Fioriera modulare Base ad angolo 1"/>
+		<entry key="BuildingPartName_VT_Planter_Corner90o_ST" translation="Fioriera modulare Top ad angolo 1"/>
+		<entry key="BuildingPartName_VT_Planter_CornerCurve_Block_ST" translation="Fioriera modulare Base ad angolo 3"/>
+		<entry key="BuildingPartName_VT_Planter_CornerCurve_ST" translation="Fioriera modulare Top ad angolo 3"/>
+		<entry key="BuildingPartName_VT_Planter_CornerRndAngle_Block_ST" translation="Fioriera modulare Base ad angolo 5"/>
+		<entry key="BuildingPartName_VT_Planter_CornerRndAngle_ST" translation="Fioriera modulare Top ad angolo 5"/>
+		<entry key="BuildingPartName_VT_Planter_CornerRnd_Block_ST" translation="Fioriera modulare Base ad angolo 4"/>
+		<entry key="BuildingPartName_VT_Planter_CornerRnd_ST" translation="Fioriera modulare Top ad angolo 4"/>
+		<entry key="BuildingPartName_VT_Planter_CurveExt_Block_ST" translation="Fioriera modulare Base ad angolo 7"/>
+		<entry key="BuildingPartName_VT_Planter_CurveExt_ST" translation="Fioriera modulare Top ad angolo 7"/>
+		<entry key="BuildingPartName_VT_Planter_CurveInt_Block_ST" translation="Fioriera modulare Inserto Base ad angolo"/>
+		<entry key="BuildingPartName_VT_Planter_CurveInt_ST" translation="Fioriera modulare Inserto Top ad angolo"/>
+		<entry key="BuildingPartName_VT_Planter_Edge_Block_ST" translation="Fioriera modulare Base"/>
+		<entry key="BuildingPartName_VT_Planter_Edge_ST" translation="Fioriera modulare Top con bordi"/>
+		<entry key="BuildingPartName_VT_Planter_NoEdge_Block_ST" translation="Fioriera modulare Base senza bordi"/>
+		<entry key="BuildingPartName_VT_Planter_NoEdge_ST" translation="Fioriera modulare Top senza bordi"/>
+		<entry key="BuildingPartName_VT_Planter_RndExt_Block_ST" translation="Fioriera modulare Base ad angolo 8"/>
+		<entry key="BuildingPartName_VT_Planter_RndExt_ST" translation="Fioriera modulare Top ad angolo 8"/>
+		<entry key="BuildingPartName_VT_Planter_SquareEndCap_Block_ST" translation="Fioriera modulare Base Finale"/>
+		<entry key="BuildingPartName_VT_Planter_SquareEndCap_ST" translation="Fioriera modulare Top Finale"/>
+		<entry key="BuildingPartName_VT_Planter_Thin_2m_ST" translation="Fioriera modulare Sottile 2m"/>
+		<entry key="BuildingPartName_VT_Planter_Thin_4m_ST" translation="Fioriera modulare Sottile 4m"/>
+		<entry key="BuildingPartName_VT_Planter_Thin_Corner_4m_ST" translation="Fioriera modulare Sottile ad angolo 4m"/>
+		<entry key="BuildingPartName_VT_Planter_Thin_Curve_4m_ST" translation="Fioriera modulare Sottile curva 4m"/>
+		<entry key="BuildingPartName_VT_Planter_Thin_EndCap_Circle_ST" translation="Fioriera modulare Sottile Finale rotondo"/>
+		<entry key="BuildingPartName_VT_Planter_Thin_EndCap_Square_ST" translation="Fioriera modulare Sottile Finale quadrato"/>
 		<entry key="BuildingPartName_VT_Rose_Bush" translation="Cespuglio di Rose"/>
-		<entry key="BuildingPartName_VT_Set01_2mLrg_Sup" translation="Coaster Support 1 Large 2m"/>
-		<entry key="BuildingPartName_VT_Set01_2mSml_Sup" translation="Coaster Support 1 Small 2m"/>
-		<entry key="BuildingPartName_VT_Set01_4mLrg_Sup" translation="Coaster Support 1 Large 4m"/>
-		<entry key="BuildingPartName_VT_Set01_4mSml_Sup" translation="Coaster Support 1 Small 4m"/>
-		<entry key="BuildingPartName_VT_Set01_Lrg_Cnct" translation="Coaster Support 1 Large Connector"/>
-		<entry key="BuildingPartName_VT_Set01_Lrg_Fln" translation="Coaster Support 1 Large Flange"/>
-		<entry key="BuildingPartName_VT_Set01_Lrg_Fot" translation="Coaster Support 1 Large Footer"/>
-		<entry key="BuildingPartName_VT_Set01_Lrg_FotExt" translation="Coaster Support 1 Large Footer Extension"/>
-		<entry key="BuildingPartName_VT_Set01_Sml_Cnct" translation="Coaster Support 1 Small Connector"/>
-		<entry key="BuildingPartName_VT_Set01_Sml_Fln" translation="Coaster Support 1 Small Flange"/>
-		<entry key="BuildingPartName_VT_Set01_Sml_Fot" translation="Coaster Support 1 Small Footer"/>
-		<entry key="BuildingPartName_VT_Set01_Sml_FotExt" translation="Coaster Support 1 Small Footer Extension"/>
-		<entry key="BuildingPartName_VT_Set02_2mLrg_Sup" translation="Coaster Support 2 Large 2m"/>
-		<entry key="BuildingPartName_VT_Set02_2mSml_Sup" translation="Coaster Support 2 Small 2m"/>
-		<entry key="BuildingPartName_VT_Set02_4mLrg_Sup" translation="Coaster Support 2 Large 4m"/>
-		<entry key="BuildingPartName_VT_Set02_4mSml_Sup" translation="Coaster Support 2 Small 4m"/>
-		<entry key="BuildingPartName_VT_Set02_Lrg_Cnctor" translation="Coaster Support 2 Large Connector"/>
-		<entry key="BuildingPartName_VT_Set02_Lrg_Fln" translation="Coaster Support 2 Large Flange"/>
-		<entry key="BuildingPartName_VT_Set02_Lrg_Fot" translation="Coaster Support 2 Large Footer"/>
-		<entry key="BuildingPartName_VT_Set02_Lrg_FotExt" translation="Coaster Support 2 Large Footer Extension"/>
-		<entry key="BuildingPartName_VT_Set02_Sml_Cnctor" translation="Coaster Support 2 Small Connector"/>
-		<entry key="BuildingPartName_VT_Set02_Sml_Fln" translation="Coaster Support 2 Small Flange"/>
-		<entry key="BuildingPartName_VT_Set02_Sml_Fot" translation="Coaster Support 2 Small Footer"/>
-		<entry key="BuildingPartName_VT_Set02_Sml_FotExt" translation="Coaster Support 2 Small Footer Extension"/>
-		<entry key="BuildingPartName_VT_Set03_2m_Sup" translation="Coaster Support 3 2m"/>
-		<entry key="BuildingPartName_VT_Set03_4m_Sup" translation="Coaster Support 3 4m"/>
-		<entry key="BuildingPartName_VT_Set03_Fot" translation="Coaster Support 3 Footer"/>
-		<entry key="BuildingPartName_VT_Set03_FotExt" translation="Coaster Support 3 Footer Extension"/>
-		<entry key="BuildingPartName_VT_Set03_ShallowCon" translation="Coaster Support 3 Connector"/>
-		<entry key="BuildingPartName_VT_Set03_Sml_Fln" translation="Coaster Support 3 Flange"/>
-		<entry key="BuildingPartName_VT_Set04_2mLrg_Sup" translation="Coaster Support 4 Large 2m"/>
-		<entry key="BuildingPartName_VT_Set04_2mSml_Sup" translation="Coaster Support 4 Small 2m"/>
-		<entry key="BuildingPartName_VT_Set04_4mLrg_Sup" translation="Coaster Support 4 Large 4m"/>
-		<entry key="BuildingPartName_VT_Set04_4mSml_Sup" translation="Coaster Support 4 Small 4m"/>
-		<entry key="BuildingPartName_VT_Set04_Con01" translation="Coaster Support 4 Connector 1"/>
-		<entry key="BuildingPartName_VT_Set04_Con02" translation="Coaster Support 4 Connector 2"/>
-		<entry key="BuildingPartName_VT_Set04_Con03" translation="Coaster Support 4 Connector 3"/>
-		<entry key="BuildingPartName_VT_Set04_Con04" translation="Coaster Support 4 Connector 4"/>
-		<entry key="BuildingPartName_VT_Set04_Lrg_Fln" translation="Coaster Support 4 Large Flange"/>
-		<entry key="BuildingPartName_VT_Set04_Lrg_Fot" translation="Coaster Support 4 Large Footer"/>
-		<entry key="BuildingPartName_VT_Set04_Lrg_FotExt" translation="Coaster Support 4 Large Footer Extension"/>
-		<entry key="BuildingPartName_VT_Set04_Sml_Fot" translation="Coaster Support 4 Small Footer"/>
-		<entry key="BuildingPartName_VT_Set04_Sml_FotExt" translation="Coaster Support 4 Small Footer Extension"/>
-		<entry key="BuildingPartName_VT_Set04_XBeam" translation="Coaster Support 4 Crossbeam"/>
-		<entry key="BuildingPartName_VT_Set35_Fot" translation="Mouse Hunt Hoarding Footer"/>
-		<entry key="BuildingPartName_VT_Set35_PrimSup_2m" translation="Mouse Hunt Hoarding Primary Support 2m"/>
-		<entry key="BuildingPartName_VT_Set35_PrimSup_4m" translation="Mouse Hunt Hoarding Primary Support 4m"/>
-		<entry key="BuildingPartName_VT_Set35_PrimSup_8m" translation="Mouse Hunt Hoarding Primary Support 8m"/>
-		<entry key="BuildingPartName_VT_Set35_SecSup_2m" translation="Mouse Hunt Hoarding Secondary Support 2m"/>
-		<entry key="BuildingPartName_VT_Set35_SecSup_4m" translation="Mouse Hunt Hoarding Secondary Support 4m"/>
-		<entry key="BuildingPartName_VT_Set35_SecSup_8m" translation="Mouse Hunt Hoarding Secondary Support 8m"/>
-		<entry key="BuildingPartName_VT_Sprinkler_Oscillating" translation="Sprinkler Oscillating Full"/>
-		<entry key="BuildingPartName_VT_Sprinkler_Oscillating_90" translation="Sprinkler Oscillating Half"/>
-		<entry key="BuildingPartName_VT_Sprinkler_Rotation" translation="Sprinkler Rotating"/>
-		<entry key="BuildingPartName_VT_Sunflowers" translation="Sunflower Clump"/>
-		<entry key="BuildingPartName_VT_Sunflowers_01" translation="Sunflower Single 1"/>
-		<entry key="BuildingPartName_VT_Sunflowers_02" translation="Sunflower Single 2"/>
+		<entry key="BuildingPartName_VT_Set01_2mLrg_Sup" translation="Supporto Coaster 1 Grande 2m"/>
+		<entry key="BuildingPartName_VT_Set01_2mSml_Sup" translation="Supporto Coaster 1 Piccolo 2m"/>
+		<entry key="BuildingPartName_VT_Set01_4mLrg_Sup" translation="Supporto Coaster 1 Grande 4m"/>
+		<entry key="BuildingPartName_VT_Set01_4mSml_Sup" translation="Supporto Coaster 1 Piccolo 4m"/>
+		<entry key="BuildingPartName_VT_Set01_Lrg_Cnct" translation="Supporto Coaster 1 Connettore Grande"/>
+		<entry key="BuildingPartName_VT_Set01_Lrg_Fln" translation="Supporto Coaster 1 Flangia Grande"/>
+		<entry key="BuildingPartName_VT_Set01_Lrg_Fot" translation="Supporto Coaster 1 Base Grande"/>
+		<entry key="BuildingPartName_VT_Set01_Lrg_FotExt" translation="Supporto Coaster 1 Estensione Base Grande"/>
+		<entry key="BuildingPartName_VT_Set01_Sml_Cnct" translation="Supporto Coaster 1 Connettore Piccolo"/>
+		<entry key="BuildingPartName_VT_Set01_Sml_Fln" translation="Supporto Coaster 1 Flangia Piccola"/>
+		<entry key="BuildingPartName_VT_Set01_Sml_Fot" translation="Supporto Coaster 1 Base Piccola"/>
+		<entry key="BuildingPartName_VT_Set01_Sml_FotExt" translation="Supporto Coaster 1 Estensione Base Piccola"/>
+		<entry key="BuildingPartName_VT_Set02_2mLrg_Sup" translation="Supporto Coaster 2 Grande 2m"/>
+		<entry key="BuildingPartName_VT_Set02_2mSml_Sup" translation="Supporto Coaster 2 Piccolo 2m"/>
+		<entry key="BuildingPartName_VT_Set02_4mLrg_Sup" translation="Supporto Coaster 2 Grande 4m"/>
+		<entry key="BuildingPartName_VT_Set02_4mSml_Sup" translation="Supporto Coaster 2 Piccolo 4m"/>
+		<entry key="BuildingPartName_VT_Set02_Lrg_Cnctor" translation="Supporto Coaster 2 Connettore Grande"/>
+		<entry key="BuildingPartName_VT_Set02_Lrg_Fln" translation="Supporto Coaster 2 Flangia Grande"/>
+		<entry key="BuildingPartName_VT_Set02_Lrg_Fot" translation="Supporto Coaster 2 Base Grande"/>
+		<entry key="BuildingPartName_VT_Set02_Lrg_FotExt" translation="Supporto Coaster 2 Estensione Base Grande"/>
+		<entry key="BuildingPartName_VT_Set02_Sml_Cnctor" translation="Supporto Coaster 2 Connettore Piccolo"/>
+		<entry key="BuildingPartName_VT_Set02_Sml_Fln" translation="Supporto Coaster Flangia 2 Piccola"/>
+		<entry key="BuildingPartName_VT_Set02_Sml_Fot" translation="Supporto Coaster Base 2 Piccola"/>
+		<entry key="BuildingPartName_VT_Set02_Sml_FotExt" translation="Supporto Coaster 2 Estensione Base Piccola"/>
+		<entry key="BuildingPartName_VT_Set03_2m_Sup" translation="Supporto Coaster 3 2m"/>
+		<entry key="BuildingPartName_VT_Set03_4m_Sup" translation="Supporto Coaster 3 4m"/>
+		<entry key="BuildingPartName_VT_Set03_Fot" translation="Supporto Coaster 3 Base"/>
+		<entry key="BuildingPartName_VT_Set03_FotExt" translation="Supporto Coaster 3 Estensione Base"/>
+		<entry key="BuildingPartName_VT_Set03_ShallowCon" translation="Supporto Coaster 3 Connettore"/>
+		<entry key="BuildingPartName_VT_Set03_Sml_Fln" translation="Supporto Coaster 3 Flangia"/>
+		<entry key="BuildingPartName_VT_Set04_2mLrg_Sup" translation="Supporto Coaster 4 Grande 2m"/>
+		<entry key="BuildingPartName_VT_Set04_2mSml_Sup" translation="Supporto Coaster 4 Piccolo 2m"/>
+		<entry key="BuildingPartName_VT_Set04_4mLrg_Sup" translation="Supporto Coaster 4 Grande 4m"/>
+		<entry key="BuildingPartName_VT_Set04_4mSml_Sup" translation="Supporto Coaster 4 Piccolo 4m"/>
+		<entry key="BuildingPartName_VT_Set04_Con01" translation="Supporto Coaster 4 Connettore 1"/>
+		<entry key="BuildingPartName_VT_Set04_Con02" translation="Supporto Coaster 4 Connettore 2"/>
+		<entry key="BuildingPartName_VT_Set04_Con03" translation="Supporto Coaster 4 Connettore 3"/>
+		<entry key="BuildingPartName_VT_Set04_Con04" translation="Supporto Coaster 4 Connettore 4"/>
+		<entry key="BuildingPartName_VT_Set04_Lrg_Fln" translation="Supporto Coaster 4 Flangia Grande"/>
+		<entry key="BuildingPartName_VT_Set04_Lrg_Fot" translation="Supporto Coaster 4 Base Grande"/>
+		<entry key="BuildingPartName_VT_Set04_Lrg_FotExt" translation="Supporto Coaster 4 Estensione Base Grande"/>
+		<entry key="BuildingPartName_VT_Set04_Sml_Fot" translation="Supporto Coaster 4 Base Piccola"/>
+		<entry key="BuildingPartName_VT_Set04_Sml_FotExt" translation="Supporto Coaster 4 Estensione Base Piccola"/>
+		<entry key="BuildingPartName_VT_Set04_XBeam" translation="Supporto Coaster 4 Traversa"/>
+		<entry key="BuildingPartName_VT_Set35_Fot" translation="Base Recinzione Mouse Hunt"/>
+		<entry key="BuildingPartName_VT_Set35_PrimSup_2m" translation="Supporto Primario Recinzione 2m Mouse Hunt"/>
+		<entry key="BuildingPartName_VT_Set35_PrimSup_4m" translation="Supporto Primario Recinzione 4m Mouse Hunt"/>
+		<entry key="BuildingPartName_VT_Set35_PrimSup_8m" translation="Supporto Primario Recinzione 8m Mouse Hunt"/>
+		<entry key="BuildingPartName_VT_Set35_SecSup_2m" translation="Supporto Secondario Recinzione 2m Mouse Hunt"/>
+		<entry key="BuildingPartName_VT_Set35_SecSup_4m" translation="Supporto Secondario Recinzione 4m Mouse Hunt"/>
+		<entry key="BuildingPartName_VT_Set35_SecSup_8m" translation="Supporto Secondario Recinzione 8m Mouse Hunt"/>
+		<entry key="BuildingPartName_VT_Sprinkler_Oscillating" translation="Irrigatore con Oscillazione completa"/>
+		<entry key="BuildingPartName_VT_Sprinkler_Oscillating_90" translation="Irrigatore con Oscillazione parziale"/>
+		<entry key="BuildingPartName_VT_Sprinkler_Rotation" translation="Irrigatore Rotante"/>
+		<entry key="BuildingPartName_VT_Sunflowers" translation="Cespuglio Girasoli"/>
+		<entry key="BuildingPartName_VT_Sunflowers_01" translation="Girasole Singolo 1"/>
+		<entry key="BuildingPartName_VT_Sunflowers_02" translation="Girasole Singolo 2"/>
 		<entry key="BuildingPartName_VT_Tulips_Round" translation="Cerchio di Tulipani"/>
 		<entry key="BuildingPartName_VT_Tulips_Square" translation="Quadrato di Tulipani"/>
 		<!--C7_Tags-->
@@ -6903,7 +6903,7 @@
 		<entry key="FrontEndMenu_ScenarioDetails_PBTL" translation="Attraccate, ciurma! Ben arrrr...rivato a Planet Coaster! Dai fuoco alle polveri e prendi il controllo di questo esplosivo parco Pirata. Costruisci attrazioni, attira le folle e fai vivere ai visitatori indimenticabili momenti di cappa e spada!"/>
 		<entry key="FrontEndMenu_ScenarioDetails_PIRT" translation="Pietro Gambadilegno, pirata in pensione e neo-imprenditore, si trova in grosse difficoltà. Il suo parco è sommerso di debiti, incompleto, e scarseggia in quanto a divertimento. (Se solo ricordasse dove ha sepolto il suo tesoro... Era qui da qualche parte.) Afferra il timone e inverti la rotta, prima che questa nave si rovesci!"/>
 		<entry key="FrontEndMenu_ScenarioDetails_SKLL" translation="Il Teschio? E' apparso un bel giorno, sorgendo dal terreno in cerca di vendetta... o almeno credo. Si vocifera che sia maledetto, ma tutto quel che so è che rende scontenti i visitatori. Serve il tuo aiuto per contrastare gli effetti del Teschio, altrimenti il parco non si risolleverà. Rendi felici i visitatori e aumentane il numero. Assumi intrattenitori, avvia campagne di marketing, fai tutto ciò che meglio credi per gonfiare le casse."/>
-		<entry key="FrontEndMenu_ScenarioDetails_SSMR" translation="La famiglia Silversmith sta aprendo un parco a tema sfruttando i terreni di sua proprietà per contrastare l'inarrestabile ascesa dei propri debiti. Il tuo compito sarà quello di creare un parco di successo, lontano dagli abissi della crisi, ma tenendo conto di qualche piccolo accorgimento... I Silversmith sono persone decisamente all'antica e permetteranno la costruzione di sole attrazioni ‘tradizionali’, quindi potresti indirizzare i tuoi sforzi di Marketing sulle famiglie, assicurandoti che le tue attrazioni abbiano un buon rapporto qualità-prezzo. Oh, dimenticavo... costruisci con attenzione, dato che la proprietà tratterrà una percentuale su eventuali rimborsi... Buona fortuna!"/>
+		<entry key="FrontEndMenu_ScenarioDetails_SSMR" translation="La famiglia Silversmith sta aprendo un parco a tema sfruttando i terreni di sua proprietà per contrastare l'inarrestabile ascesa dei propri debiti. Il tuo compito sarà quello di creare un parco di successo, lontano dagli abissi della crisi, ma tenendo conto di qualche piccolo accorgimento... I Silversmith sono persone decisamente all'antica e permetteranno la costruzione di sole attrazioni ‘tradizionali’, so you may want to aim your Marketing efforts at families and ensure your ride sequences offer value for money. Oh, dimenticavo... costruisci con attenzione, dato che la proprietà tratterrà una percentuale su eventuali rimborsi... Buona fortuna!"/>
 		<entry key="FrontEndMenu_ScenarioDetails_TGTR" translation="Dicono che questo albero sia il cuore del mondo. Sarai in grado di portare il giusto rispetto a Madre Natura realizzando un parco tematico amico dell'ambiente attorno al maestoso albero, o metterai in vendita il bosco per profitto, spremendo il più possibile questo angolo verde di paradiso?"/>
 		<entry key="FrontEndMenu_ScenarioName_CTKG" translation="Il Re dei Coaster"/>
 		<entry key="FrontEndMenu_ScenarioName_GLLY" translation="Perbacco, ti ho nel sacco!"/>
@@ -7145,7 +7145,7 @@
 		<entry key="ColourGrading_70S" translation="Anni 70"/>
 		<entry key="ColourGrading_AudioBase" translation="None"/>
 		<entry key="ColourGrading_AudioVintage" translation="Vintage"/>
-		<entry key="ColourGrading_AudioVintage_AudioDescription" translation="Effetto Speaker Vintage"/>
+		<entry key="ColourGrading_AudioVintage_AudioDescription" translation="Vintage Speaker Effect"/>
 		<entry key="ColourGrading_BW_Blast" translation="Bianco e Nero"/>
 		<entry key="ColourGrading_Base" translation="Nessuna categoria"/>
 		<entry key="ColourGrading_Base_AudioDescription" translation="No Audio Effect"/>
@@ -7205,7 +7205,7 @@
 		<entry key="Colour_Correction_Title" translation="Effetti Visuali"/>
 		<entry key="Colour_Correction_Vignette" translation="Vignetta"/>
 		<!--CommunityTranslation-->
-		<entry key="CommunityTranslation_Name" translation="https://traduzioneplanetcoaster.altervista.org/"/>
+		<entry key="CommunityTranslation_Name" translation="traduzioneplanetcoaster.it"/>
 		<!--DLC_FX17_Facilities-->
 		<entry key="ShopItem_Balloon_FX_01" translation="Silver FX17 Balloon"/>
 		<entry key="ShopItem_Balloon_FX_02" translation="Golden FX17 Balloon"/>
@@ -8206,7 +8206,7 @@
 		<entry key="GraphicsOptionsMenu_Bloom" translation="Bloom"/>
 		<entry key="GraphicsOptionsMenu_Bloom_Q1" translation="Spento"/>
 		<entry key="GraphicsOptionsMenu_Bloom_Q2" translation="Acceso"/>
-		<entry key="GraphicsOptionsMenu_Borderless" translation="Finestra senza bordi"/>
+		<entry key="GraphicsOptionsMenu_Borderless" translation="Senza Bordi"/>
 		<entry key="GraphicsOptionsMenu_Clouds" translation="Nuvole"/>
 		<entry key="GraphicsOptionsMenu_Clouds_Q1" translation="Basso"/>
 		<entry key="GraphicsOptionsMenu_Clouds_Q2" translation="Medio"/>
@@ -8224,9 +8224,9 @@
 		<entry key="GraphicsOptionsMenu_Effect_Q1" translation="Basso"/>
 		<entry key="GraphicsOptionsMenu_Effect_Q2" translation="Medio"/>
 		<entry key="GraphicsOptionsMenu_Effect_Q3" translation="Alto"/>
-		<entry key="GraphicsOptionsMenu_EnvCapture" translation="Mappatura Ambientale Dinamica"/>
-		<entry key="GraphicsOptionsMenu_EnvCapture_Q1" translation="Spenta"/>
-		<entry key="GraphicsOptionsMenu_EnvCapture_Q2" translation="Accesa"/>
+		<entry key="GraphicsOptionsMenu_EnvCapture" translation="Ambiente Mappa Dinamico"/>
+		<entry key="GraphicsOptionsMenu_EnvCapture_Q1" translation="Spento"/>
+		<entry key="GraphicsOptionsMenu_EnvCapture_Q2" translation="Acceso"/>
 		<entry key="GraphicsOptionsMenu_Fullscreen" translation="Schermo Intero"/>
 		<entry key="GraphicsOptionsMenu_Gamma" translation="Gamma"/>
 		<entry key="GraphicsOptionsMenu_Geometric" translation="Dettagli Geometrici"/>
@@ -8244,7 +8244,7 @@
 		<entry key="GraphicsOptionsMenu_LensFlare_Q3" translation="Medio"/>
 		<entry key="GraphicsOptionsMenu_Lighting" translation="Qualità illuminazione"/>
 		<entry key="GraphicsOptionsMenu_Lighting_Q1" translation="Bassa"/>
-		<entry key="GraphicsOptionsMenu_Lighting_Q2" translation="Media"/>
+		<entry key="GraphicsOptionsMenu_Lighting_Q2" translation="Medio"/>
 		<entry key="GraphicsOptionsMenu_Lighting_Q3" translation="Alta"/>
 		<entry key="GraphicsOptionsMenu_LowQuality" translation="Basso"/>
 		<entry key="GraphicsOptionsMenu_LowestQuality" translation="Minimo"/>
@@ -8257,14 +8257,14 @@
 		<entry key="GraphicsOptionsMenu_Multisample_Q5" translation="Bilanciato per Qualità"/>
 		<entry key="GraphicsOptionsMenu_Multisample_Q6" translation="Alto"/>
 		<entry key="GraphicsOptionsMenu_Multisample_Q7" translation="Molto Alto"/>
-		<entry key="GraphicsOptionsMenu_RefreshRate" translation="Frequenza di aggiornamento"/>
+		<entry key="GraphicsOptionsMenu_RefreshRate" translation="Velocità aggiornamento"/>
 		<entry key="GraphicsOptionsMenu_RefreshRateOption" translation="{RATE:float} Hz."/>
 		<entry key="GraphicsOptionsMenu_Resolution" translation="Risoluzione"/>
 		<entry key="GraphicsOptionsMenu_ResolutionOption" translation="{WIDTH:int} x {HEIGHT:int}"/>
 		<entry key="GraphicsOptionsMenu_Revert" translation="Reset Valori"/>
-		<entry key="GraphicsOptionsMenu_SSR" translation="Riflessi (SSR)"/>
-		<entry key="GraphicsOptionsMenu_SSR_Q1" translation="Spenti"/>
-		<entry key="GraphicsOptionsMenu_SSR_Q2" translation="Accesi"/>
+		<entry key="GraphicsOptionsMenu_SSR" translation="Riflesso dello Schermo"/>
+		<entry key="GraphicsOptionsMenu_SSR_Q1" translation="Spento"/>
+		<entry key="GraphicsOptionsMenu_SSR_Q2" translation="Acceso"/>
 		<entry key="GraphicsOptionsMenu_ScreenMode" translation="Modalità Schermo"/>
 		<entry key="GraphicsOptionsMenu_Shadows" translation="Ombre"/>
 		<entry key="GraphicsOptionsMenu_Shadows_Q1" translation="Spente"/>
@@ -15391,58 +15391,58 @@
 		<!--InfoPanel_Track-->
 		<entry key="GUI_audioFileToken" translation="{Name}"/>
 		<entry key="InfoPanel_Track_AddTrain" translation="Aggiungi Treno"/>
-		<entry key="InfoPanel_Track_BoatType" translation="Boat Type"/>
-		<entry key="InfoPanel_Track_BoatType_Hint" translation="Cannot change boat while ride is open."/>
-		<entry key="InfoPanel_Track_BoatType_Label" translation="Select Boat To Spawn"/>
-		<entry key="InfoPanel_Track_BusType" translation="Bus Type"/>
-		<entry key="InfoPanel_Track_BusType_Hint" translation="Cannot change the bus while the ride is open."/>
-		<entry key="InfoPanel_Track_BusType_Label" translation="Select Bus To Spawn"/>
-		<entry key="InfoPanel_Track_CameraTab" translation="Camera"/>
-		<entry key="InfoPanel_Track_CarType" translation="Car Type"/>
-		<entry key="InfoPanel_Track_CarType_Hint" translation="Cannot change car while ride is open."/>
-		<entry key="InfoPanel_Track_CarType_Label" translation="Select Car To Spawn"/>
-		<entry key="InfoPanel_Track_ChairType" translation="Chair Type"/>
-		<entry key="InfoPanel_Track_ChairType_Hint" translation="Cannot change the chair while the ride is open."/>
-		<entry key="InfoPanel_Track_ChairType_Label" translation="Select Chair To Spawn"/>
+		<entry key="InfoPanel_Track_BoatType" translation="Modello Barca"/>
+		<entry key="InfoPanel_Track_BoatType_Hint" translation="Non è possibile cambiare la barca mentre l'attrazione è aperta."/>
+		<entry key="InfoPanel_Track_BoatType_Label" translation="Seleziona la barca da generare"/>
+		<entry key="InfoPanel_Track_BusType" translation="Modello Bus"/>
+		<entry key="InfoPanel_Track_BusType_Hint" translation="Non è possibile cambiare il Bus mentre l'attrazione è aperta."/>
+		<entry key="InfoPanel_Track_BusType_Label" translation="Seleziona il Bus da generare"/>
+		<entry key="InfoPanel_Track_CameraTab" translation="Visuale"/>
+		<entry key="InfoPanel_Track_CarType" translation="Modello Vettura"/>
+		<entry key="InfoPanel_Track_CarType_Hint" translation="Non è possibile cambiare la vettura mentre l'attrazione è aperta."/>
+		<entry key="InfoPanel_Track_CarType_Label" translation="Seleziona la vettura da generare"/>
+		<entry key="InfoPanel_Track_ChairType" translation="Modello Sedile"/>
+		<entry key="InfoPanel_Track_ChairType_Hint" translation="Non è possibile cambiare i sedili mentre l'attrazione è aperta."/>
+		<entry key="InfoPanel_Track_ChairType_Label" translation="Seleziona il sedile da generare"/>
 		<entry key="InfoPanel_Track_ChaseCamera" translation="Visuale a inseguimento"/>
 		<entry key="InfoPanel_Track_CinematicCamera" translation="Visuale Cinematica"/>
 		<entry key="InfoPanel_Track_CloseBeforeEdit" translation="Devi chiudere l'attrazione prima di modificarne il tracciato"/>
-		<entry key="InfoPanel_Track_DehauntBeforeEdit" translation="You must capture the ghost haunting this ride before you can edit the track"/>
+		<entry key="InfoPanel_Track_DehauntBeforeEdit" translation="Devi liberare questa attrazione dai fantasmi prima di poter modificare il tracciato"/>
 		<entry key="InfoPanel_Track_DeleteTrains" translation="Rimuovi Treno"/>
 		<entry key="InfoPanel_Track_Edit" translation="Modifica Tracciato"/>
 		<entry key="InfoPanel_Track_EditTriggers" translation="Modifica Inneschi"/>
-		<entry key="InfoPanel_Track_FixBeforeEdit" translation="You must fix the ride before you can edit the track"/>
+		<entry key="InfoPanel_Track_FixBeforeEdit" translation="Devi riparare questa attrazione prima di poter modificare il tracciato"/>
 		<entry key="InfoPanel_Track_FlexiColour" translation="Colori Attrazione"/>
 		<entry key="InfoPanel_Track_FrontLookCamera" translation="Visuale Frontale"/>
-		<entry key="InfoPanel_Track_GondolaType" translation="Gondola Type"/>
-		<entry key="InfoPanel_Track_GondolaTypeType_Label" translation="Select Gondola To Spawn"/>
-		<entry key="InfoPanel_Track_GondolaType_Hint" translation="Cannot change the gondola while the ride is open."/>
+		<entry key="InfoPanel_Track_GondolaType" translation="Modello Gondola"/>
+		<entry key="InfoPanel_Track_GondolaTypeType_Label" translation="Seleziona la Gondola da generare"/>
+		<entry key="InfoPanel_Track_GondolaType_Hint" translation="Non è possibile cambiare la Gondola mentre l'attrazione è aperta."/>
 		<entry key="InfoPanel_Track_GuestCamera" translation="Visuale visitatori"/>
-		<entry key="InfoPanel_Track_KartType" translation="Kart Type"/>
-		<entry key="InfoPanel_Track_KartType_Hint" translation="Cannot change kart while ride is open."/>
-		<entry key="InfoPanel_Track_KartType_Label" translation="Select Kart To Spawn"/>
+		<entry key="InfoPanel_Track_KartType" translation="Modello Kart"/>
+		<entry key="InfoPanel_Track_KartType_Hint" translation="Non è possibile cambiare i kart mentre l'attrazione è aperta."/>
+		<entry key="InfoPanel_Track_KartType_Label" translation="Seleziona il kart da generare"/>
 		<entry key="InfoPanel_Track_LookAtGuestCamera" translation="Guarda la Visuale visitatori"/>
 		<entry key="InfoPanel_Track_LookBackCamera" translation="Visuale invertita"/>
 		<entry key="InfoPanel_Track_Name" translation="Tracciato"/>
 		<entry key="InfoPanel_Track_NewBuilding" translation="Costruisci sulla Griglia della Stazione"/>
-		<entry key="InfoPanel_Track_NumBoat" translation="Boats"/>
-		<entry key="InfoPanel_Track_NumBus" translation="Buses"/>
-		<entry key="InfoPanel_Track_NumCar" translation="Cars"/>
-		<entry key="InfoPanel_Track_NumChairs" translation="Chairs"/>
-		<entry key="InfoPanel_Track_NumGondolas" translation="Gondolas"/>
-		<entry key="InfoPanel_Track_NumKart" translation="Karts"/>
-		<entry key="InfoPanel_Track_NumRaft" translation="Rafts"/>
-		<entry key="InfoPanel_Track_NumSleigh" translation="Sleighs"/>
-		<entry key="InfoPanel_Track_RaftType" translation="Raft Type"/>
-		<entry key="InfoPanel_Track_RaftType_Hint" translation="Cannot change raft while ride is open."/>
-		<entry key="InfoPanel_Track_RaftType_Label" translation="Select Raft To Spawn"/>
+		<entry key="InfoPanel_Track_NumBoat" translation="Barche"/>
+		<entry key="InfoPanel_Track_NumBus" translation="Bus"/>
+		<entry key="InfoPanel_Track_NumCar" translation="Vetture"/>
+		<entry key="InfoPanel_Track_NumChairs" translation="Sedili"/>
+		<entry key="InfoPanel_Track_NumGondolas" translation="Gondole"/>
+		<entry key="InfoPanel_Track_NumKart" translation="Kart"/>
+		<entry key="InfoPanel_Track_NumRaft" translation="Zattere"/>
+		<entry key="InfoPanel_Track_NumSleigh" translation="Slitte"/>
+		<entry key="InfoPanel_Track_RaftType" translation="Modello Zattera"/>
+		<entry key="InfoPanel_Track_RaftType_Hint" translation="Non è possibile cambiare la zattera mentre l'attrazione è aperta."/>
+		<entry key="InfoPanel_Track_RaftType_Label" translation="Seleziona la zattera da generare"/>
 		<entry key="InfoPanel_Track_SaveBlueprint" translation="Salva Progetto"/>
-		<entry key="InfoPanel_Track_SleighType" translation="Sleigh Type"/>
-		<entry key="InfoPanel_Track_SleighType_Hint" translation="Cannot change sleigh while ride is open."/>
-		<entry key="InfoPanel_Track_SleighType_Label" translation="Select Sleigh To Spawn"/>
+		<entry key="InfoPanel_Track_SleighType" translation="Modello Slitta"/>
+		<entry key="InfoPanel_Track_SleighType_Hint" translation="Non è possibile cambiare la slitta mentre l'attrazione è aperta."/>
+		<entry key="InfoPanel_Track_SleighType_Label" translation="Seleziona la slitta da generare"/>
 		<entry key="InfoPanel_Track_TrainType" translation="Treno"/>
-		<entry key="InfoPanel_Track_TrainType_Hint" translation="Cannot change train while ride is open."/>
-		<entry key="InfoPanel_Track_TrainType_Label" translation="Select Train To Spawn"/>
+		<entry key="InfoPanel_Track_TrainType_Hint" translation="Non è possibile cambiare il treno mentre l'attrazione è aperta."/>
+		<entry key="InfoPanel_Track_TrainType_Label" translation="Seleziona il treno da generare"/>
 		<entry key="InfoPanel_Track_TriggerEvents" translation="Inneschi"/>
 		<entry key="InfoPanel_Track_TriggerInfo_EventCount" translation="Eventi totali"/>
 		<entry key="InfoPanel_Track_TriggerInfo_Title" translation="Inneschi Tracciato"/>
@@ -15515,14 +15515,14 @@
 		<entry key="LoadingScreen_Input_MouseButtonRight" translation="click-destro"/>
 		<entry key="LoadingScreen_Loading" translation="Caricamento..."/>
 		<entry key="LoadingScreen_Tooltip_1" translation="Sentieri più larghi ridurranno l'accalcarsi della folla"/>
-		<entry key="LoadingScreen_Tooltip_10" translation="Le Decorazioni si possono aggiungere su quasi tutte le superfici, non solo sui muri"/>
-		<entry key="LoadingScreen_Tooltip_11" translation="Puoi tenere premuto {#LogicalButton.MouseMiddle#} per guardarti attorno in alcune visuali dell'Attrazione"/>
-		<entry key="LoadingScreen_Tooltip_12" translation="I pulsanti per la visuale nello strumento Sentieri ti aiuteranno a creare percorsi migliori e più velocemente"/>
-		<entry key="LoadingScreen_Tooltip_13" translation="L'opzione Angoli Fissi nello strumento Sentieri ti permette di creare curve secche o morbide"/>
-		<entry key="LoadingScreen_Tooltip_14" translation="Seleziona un'attrazione e clicca la Visuale Attrazione per vivere l'esperienza da prospettive diverse"/>
+		<entry key="LoadingScreen_Tooltip_10" translation="Le decorazioni si possono aggiungere su quasi tutte le superfici, non solo sui muri"/>
+		<entry key="LoadingScreen_Tooltip_11" translation="Tieni premuto {#LogicalButton.MouseMiddle#} per guardarti attorno in alcune visuali dell'Attrazione"/>
+		<entry key="LoadingScreen_Tooltip_12" translation="I comandi per la visuale nello strumento Sentieri ti aiuteranno a creare percorsi migliori e più velocemente"/>
+		<entry key="LoadingScreen_Tooltip_13" translation="L'opzione Angoli Fissi nello strumento Sentieri ti permette di creare curve strette o morbide"/>
+		<entry key="LoadingScreen_Tooltip_14" translation="Seleziona un'attrazione e clicca sulla Visuale Attrazione per vivere l'esperienza da prospettive diverse"/>
 		<entry key="LoadingScreen_Tooltip_15" translation="Puoi premere '{#LogicalButton.GameCamera_FreelookMode#}' per attivare o disattivare la visuale libera"/>
 		<entry key="LoadingScreen_Tooltip_16" translation="Puoi ripetere ogni azione utilizzando {#LogicalButton.Editors_Redo#}"/>
-		<entry key="LoadingScreen_Tooltip_17" translation="Quando si costruiscono i Sentieri, tieni premuto '{#LogicalButton.Editors_PathYJunctionModifier#}' per creare giunzioni ad angolo o congiungerli a sentieri con angoli più acuti"/>
+		<entry key="LoadingScreen_Tooltip_17" translation="Quando si costruiscono i Sentieri, tieni premuto '{#LogicalButton.Editors_PathYJunctionModifier#}' per creare giunzioni ad angolo o per congiungerli a sentieri con angoli più acuti"/>
 		<entry key="LoadingScreen_Tooltip_18" translation="Quando si modifica una Struttura, premi {#LogicalButton.MouseLeft#} e trascina per selezionare più oggetti"/>
 		<entry key="LoadingScreen_Tooltip_19" translation="Quando si costruiscono i Sentieri, puoi attivare l'Elevazione Curva per creare discese curve e scale"/>
 		<entry key="LoadingScreen_Tooltip_2" translation="Crea discese e percorsi elevati trascinando il mouse in su o in giù mentre costruisci i sentieri"/>
@@ -15559,8 +15559,8 @@
 		<entry key="LoadingScreen_Tooltip_5" translation="Il tasto Duplica clonerà un oggetto o una struttura"/>
 		<entry key="LoadingScreen_Tooltip_50" translation="Le Montagne Russe migliori mettono un pò di paura, ma non troppa!"/>
 		<entry key="LoadingScreen_Tooltip_51" translation="Quando si modificano i sentieri puoi tenere premuto {#LogicalButton.Editors_PathDeleteModifier#} e {#LogicalButton.MouseLeft#} per selezionare e cancellare ogni tratto sotto il cursore del mouse"/>
-		<entry key="LoadingScreen_Tooltip_6" translation="I muri si auto-allineano durante la costruzione. Disattiva quest'opzione per un controllo più preciso"/>
-		<entry key="LoadingScreen_Tooltip_7" translation="Puoi tener premuto '{#LogicalButton.Editors_UpwardPlacementModifier#}' mentre costruisci, per sollevare la maggior parte degli oggetti"/>
+		<entry key="LoadingScreen_Tooltip_6" translation="I muri si auto-allineano durante la costruzione. Disattiva questa opzione per un controllo più preciso"/>
+		<entry key="LoadingScreen_Tooltip_7" translation="Puoi tenere premuto '{#LogicalButton.Editors_UpwardPlacementModifier#}' mentre costruisci, per sollevare la maggior parte degli oggetti"/>
 		<entry key="LoadingScreen_Tooltip_8" translation="Le entrate per le attrazioni possono essere decorate come le strutture"/>
 		<entry key="LoadingScreen_Tooltip_9" translation="Usa le decorazioni per migliorare le tue strutture e renderle più attraenti"/>
 		<entry key="LoadingScreen_Tooltip_Text" translation="{Text}"/>
@@ -16044,40 +16044,40 @@
 		<entry key="NewsletterSignup_SuccessTitle" translation="Ti sei iscritto!"/>
 		<entry key="NewsletterSignup_Title" translation="Iscriviti per un cappello gratis!"/>
 		<!--Notifications-->
-		<entry key="Notification_AllStaffButton" translation="View Staff List"/>
-		<entry key="Notification_CaughtPickpocketButton" translation="View Ejected Thief"/>
+		<entry key="Notification_AllStaffButton" translation="Guarda Lista Staff"/>
+		<entry key="Notification_CaughtPickpocketButton" translation="Guarda ladri espulsi"/>
 		<entry key="Notification_ChallengeAvailable" translation="Sfida disponibile"/>
 		<entry key="Notification_ChallengeAvailableStacked" translation="Molte sfide disponibili"/>
 		<entry key="Notification_ChallengeButton" translation="Visualizza sfide"/>
 		<entry key="Notification_ChallengeCompleted" translation="Sfida completata"/>
 		<entry key="Notification_ChallengeCompletedStacked" translation="Molte Sfide completate"/>
 		<entry key="Notification_EntrancesNotConnectedToSpawn" translation="L'entrata del parco non è accessibile dal mondo esterno"/>
-		<entry key="Notification_GhostButton" translation="View Ghost"/>
-		<entry key="Notification_GhostSpawnedHauntingRide" translation="A ghost has haunted {Name}"/>
-		<entry key="Notification_GhostSpawnedHauntingRideStacked" translation="Ghosts have haunted multiple rides"/>
-		<entry key="Notification_GhostSpawnedRoamingPath" translation="A ghost is roaming the park"/>
-		<entry key="Notification_GhostSpawnedRoamingPathStacked" translation="Ghosts are roaming the park"/>
-		<entry key="Notification_GhostbusterAllFailedDueToTraining" translation="A ghost is too strong for all of your Ghostbusters. More training is required."/>
-		<entry key="Notification_GhostbusterFailedDueToTraining" translation="{StaffName} failed to capture a ghost due to insufficient training."/>
-		<entry key="Notification_GhostbusterFailedDueToTrainingStacked" translation="Multiple Ghostbusters failed to capture ghosts due to insufficient training."/>
-		<entry key="Notification_GhostsStillActive" translation="{Num:int} ghosts have been in your park for over month. Consider improving your Ghostbusters."/>
-		<entry key="Notification_GhostsStillActiveSingular" translation="A ghost has been in your park for over month. Consider improving your Ghostbusters."/>
-		<entry key="Notification_GozerTempleActivity" translation="Something strange is happening at {Name}!"/>
-		<entry key="Notification_GozerTempleButton" translation="View Building"/>
-		<entry key="Notification_GozerTempleFinale" translation="The Ghostbusters have arrived at {Name}!"/>
-		<entry key="Notification_GozerTempleGuestWave_Energy" translation="Gozer is making the guests in your park tired!"/>
-		<entry key="Notification_GozerTempleGuestWave_Happiness" translation="Gozer is making the guests in your park unhappy!"/>
-		<entry key="Notification_GozerTempleGuestWave_Hunger" translation="Gozer is making the guests in your park hungry!"/>
-		<entry key="Notification_GozerTempleGuestWave_Nausea" translation="Gozer is making the guests in your park feel unwell!"/>
-		<entry key="Notification_GozerTempleGuestWave_Thirst" translation="Gozer is making the guests in your park thirsty!"/>
-		<entry key="Notification_GozerTempleGuestWave_Toilet" translation="Gozer is making the guests in your park need the toilet!"/>
-		<entry key="Notification_GozerTempleSummoning" translation="Something very strange is happening at {Name}!"/>
+		<entry key="Notification_GhostButton" translation="Guarda Fantasma"/>
+		<entry key="Notification_GhostSpawnedHauntingRide" translation="Un fantasma ha infestato {Name}"/>
+		<entry key="Notification_GhostSpawnedHauntingRideStacked" translation="I fantasmi hanno infestato varie attrazioni"/>
+		<entry key="Notification_GhostSpawnedRoamingPath" translation="Un fantasma gira per il parco"/>
+		<entry key="Notification_GhostSpawnedRoamingPathStacked" translation="I fantasmi stanno girando per il parco"/>
+		<entry key="Notification_GhostbusterAllFailedDueToTraining" translation="Il fantasma è troppo forte per tutti i tuoi Ghostbusters. E' necessario più addestramento."/>
+		<entry key="Notification_GhostbusterFailedDueToTraining" translation="{StaffName} ha fallito la cattura del fantasma a causa dello scarso addestramento."/>
+		<entry key="Notification_GhostbusterFailedDueToTrainingStacked" translation="Diversi Ghostbusters hanno fallito la cattura del fantasma a causa dello scarso addestramento."/>
+		<entry key="Notification_GhostsStillActive" translation="{Num:int} I fantasmi sono nel tuo parco da più di un mese. Pensa a migliorare i tuoi Ghostbusters."/>
+		<entry key="Notification_GhostsStillActiveSingular" translation="Un fantasma è nel tuo parco da più di un mese. Pensa a migliorare i tuoi Ghostbusters."/>
+		<entry key="Notification_GozerTempleActivity" translation="Sta succedendo qualcosa di strano da {Name}!"/>
+		<entry key="Notification_GozerTempleButton" translation="Guarda Edificio"/>
+		<entry key="Notification_GozerTempleFinale" translation="I Ghostbusters sono arrivati da {Name}!"/>
+		<entry key="Notification_GozerTempleGuestWave_Energy" translation="Gozer sta rendendo i visitatori del tuo parco stanchi!"/>
+		<entry key="Notification_GozerTempleGuestWave_Happiness" translation="Gozer sta rendendo i visitatori del tuo parco infelici!"/>
+		<entry key="Notification_GozerTempleGuestWave_Hunger" translation="Gozer sta rendendo i visitatori del tuo parco affamati!"/>
+		<entry key="Notification_GozerTempleGuestWave_Nausea" translation="Gozer sta rendendo i visitatori del tuo parco nauseati!"/>
+		<entry key="Notification_GozerTempleGuestWave_Thirst" translation="Gozer sta rendendo i visitatori del tuo parco assetati!"/>
+		<entry key="Notification_GozerTempleGuestWave_Toilet" translation="Gozer sta rendendo i visitatori del tuo parco incontinenti!"/>
+		<entry key="Notification_GozerTempleSummoning" translation="Sta succedendo qualcosa di molto strano da {Name}!"/>
 		<entry key="Notification_GuestButton" translation="Visualizza visitatore"/>
 		<entry key="Notification_GuestPickpocketed" translation="E' stato denunciato un furto, la vittima non è sicura di quando sia successo. Una descrizione del sospetto è stata fornita alla Sicurezza."/>
 		<entry key="Notification_GuestPickpocketedNoSecurity" translation="E' stato denunciato un furto, la vittima non è sicura di quando sia successo. Ma non ci sono guardie a cui fornire una descrizione del sospetto!"/>
 		<entry key="Notification_GuestPickpocketedNoSecurityStacked" translation="Molti ladri segnalati nel parco ma sembrano non esserci guardie per prenderli!"/>
 		<entry key="Notification_GuestPickpocketedStacked" translation="Molti ladri segnalati nel parco. La sicurezza è stata avvertita."/>
-		<entry key="Notification_GuestThoughtsButton" translation="View Guest Thoughts"/>
+		<entry key="Notification_GuestThoughtsButton" translation="Guarda i pensieri dei visitatori"/>
 		<entry key="Notification_GuestsHappiness" translation="Molti visitatori non sono felici"/>
 		<entry key="Notification_GuestsHappinessDropping" translation="La felicità media dei visitatori è in declino"/>
 		<entry key="Notification_GuestsHungry" translation="Molti visitatori sono affamati"/>
@@ -16087,14 +16087,14 @@
 		<entry key="Notification_GuestsTrapped" translation="Molti visitatori sono intrappolati nel parco."/>
 		<entry key="Notification_HighPickpocketing" translation="Nel tuo parco ci sono alti livelli di crimine, il risultato è molti visitatori infelici e a cui capitano più borseggi. Considera di migliorare la sicurezza."/>
 		<entry key="Notification_HighVandalism" translation="Nel parco ci sono molti oggetti vandalizzati, che ridurranno la felicità dei visitatorii e la valutazione del parco. Considera di assumere un Manutentore, migliorare la sicurezza e pensare alla felicità dei visitatori."/>
-		<entry key="Notification_HireMechanicButton" translation="Hire Mechanics"/>
-		<entry key="Notification_HireSecurityButton" translation="Hire Security"/>
-		<entry key="Notification_HireVendorButton" translation="Hire Vendors"/>
-		<entry key="Notification_HotelDuplicatedNoRooms" translation="Your new Hotel, '{Name}' does not have any connected rooms."/>
-		<entry key="Notification_HotelDuplicatedNoRoomsButton" translation="View Hotel"/>
-		<entry key="Notification_HotelDuplicatedNoRoomsStacked" translation="Multiple new hotels do not have any connected rooms."/>
-		<entry key="Notification_HotelNoPath" translation="The entrance of {Name} is not accessible from the Park Entrance"/>
-		<entry key="Notification_HotelNoPathStacked" translation="Multiple hotel entrances are not accessible from the Park Entrance"/>
+		<entry key="Notification_HireMechanicButton" translation="Assumi Manutentori"/>
+		<entry key="Notification_HireSecurityButton" translation="Assumi membri Sicurezza"/>
+		<entry key="Notification_HireVendorButton" translation="Assumi Venditori"/>
+		<entry key="Notification_HotelDuplicatedNoRooms" translation="Il tuo nuovo Hotel, '{Name}' non ha stanze connesse."/>
+		<entry key="Notification_HotelDuplicatedNoRoomsButton" translation="Guarda Hotel"/>
+		<entry key="Notification_HotelDuplicatedNoRoomsStacked" translation="Diversi nuovi Hotel non hanno stanze connesse."/>
+		<entry key="Notification_HotelNoPath" translation="L'entrata di {Name} non è accessibile dall'ingresso del Parco"/>
+		<entry key="Notification_HotelNoPathStacked" translation="Diverse entrate di Hotel non sono accessibili dall'ingresso del Parco"/>
 		<entry key="Notification_MarketingButton" translation="Visualizza Marketing"/>
 		<entry key="Notification_MarketingCampaignCompleted" translation="La campagna di marketing si è conclusa&#10;'{Name}'"/>
 		<entry key="Notification_MarketingCampaignCompletedCantRenew" translation="La campagna di marketing è fallita per mancanza di fondi&#10;'{Name}'"/>
@@ -16108,37 +16108,37 @@
 		<entry key="Notification_ObjectiveButton" translation="Guarda Obiettivi"/>
 		<entry key="Notification_ObjectiveCompleted" translation="{ObjectiveTier} obiettivo completato:&#10;'{Name}'&#10;Complimenti!"/>
 		<entry key="Notification_ObjectiveCompletedStacked" translation="Multipli obiettivi sono stati completati"/>
-		<entry key="Notification_OldestGhostButton" translation="View Oldest Ghost"/>
+		<entry key="Notification_OldestGhostButton" translation="Guarda il fantasma più vecchio"/>
 		<entry key="Notification_OpenNotificationsButton" translation="Apri notifiche"/>
-		<entry key="Notification_OpenStaffBuildingManagementButton" translation="View Staff Buildings"/>
+		<entry key="Notification_OpenStaffBuildingManagementButton" translation="Guarda l'Edificio Staff"/>
 		<entry key="Notification_ParkBins" translation="Ci sono molti cestini strabordanti&#10;Assicurati che gli spazzini li svuotino regolarmente"/>
 		<entry key="Notification_ParkBreakdowns" translation="Il tasso di rotture del tuo parco è alto&#10;Assicurati che i manutentori ispezionino le attrazioni regolarmente"/>
 		<entry key="Notification_ParkLitter" translation="C'è un sacco di spazzatura nel parco&#10;Assicurati che ci siano abbastanza cestini"/>
-		<entry key="Notification_ParkMonthlySummary" translation="Riepilogo della fine del mese:&#10;   Profitto mensile: {ProfitChange}&#10;   Cambio di valutazione del parco: {RatingChange}"/>
+		<entry key="Notification_ParkMonthlySummary" translation="Riepilogo della fine del mese:&#10;Profitto mensile: {ProfitChange}&#10;Cambio di valutazione del parco: {RatingChange}"/>
 		<entry key="Notification_ParkMonthlySummaryStacked" translation="Più riepiloghi mensili disponibili"/>
-		<entry key="Notification_ParkMonthlySummaryStory" translation="End of month summary:&#10;Monthly profit: {ProfitChange}&#10;Park rating change: {RatingChange}&#10;Monthly Thefts: {Thefts}&#10;EPA Fee: {ChallengeTax}"/>
-		<entry key="Notification_ParkMonthlySummaryTable" translation="End of month summary"/>
+		<entry key="Notification_ParkMonthlySummaryStory" translation="Riepilogo della fine del mese:&#10;Profitto mensile: {ProfitChange}&#10;Cambio di valutazione del parco: {RatingChange}&#10;Furti mensili: {Thefts}&#10;Tassa ambientale: {ChallengeTax}"/>
+		<entry key="Notification_ParkMonthlySummaryTable" translation="Riepilogo della fine del mese"/>
 		<entry key="Notification_ParkSummaryButton" translation="Visualizza riepilogo del parco"/>
 		<entry key="Notification_ParkVomit" translation="C'è un sacco di vomito nel parco&#10;Valuta di realizzare un infermeria"/>
 		<entry key="Notification_PickpocketCaught" translation="E' stato preso un ladro, risolvendo {NumCrimes:int} crimini in sospeso. Se possibile, alle vittime è stato restituito il denaro."/>
 		<entry key="Notification_PickpocketCaughtSingular" translation="E' stato preso un ladro, risolvendo un crimine in sospeso. Se possibile, alle vittime è stato restituito il denaro."/>
 		<entry key="Notification_PickpocketCaughtStacked" translation="Diversi furti segnalati nel parco. La Sicurezza è stata avvertita"/>
-		<entry key="Notification_PlaceEctoContainmentUnitButton" translation="Place Containment Unit"/>
-		<entry key="Notification_PlaceEctoContainmentUnitButtonResearch" translation="Research Containment Unit"/>
-		<entry key="Notification_PlaceFirstAidBuildingButton" translation="Place First Aid Building"/>
-		<entry key="Notification_PlaceFirstAidBuildingButtonResearch" translation="Research First Aid Building"/>
-		<entry key="Notification_PlaceStaffBuildingButton" translation="Place Staff Building"/>
+		<entry key="Notification_PlaceEctoContainmentUnitButton" translation="Posiziona l'unità di contenimento"/>
+		<entry key="Notification_PlaceEctoContainmentUnitButtonResearch" translation="Ricerca l'unità di contenimento"/>
+		<entry key="Notification_PlaceFirstAidBuildingButton" translation="Posiziona il Pronto Soccorso"/>
+		<entry key="Notification_PlaceFirstAidBuildingButtonResearch" translation="Ricerca l'edificio Pronto Soccorso"/>
+		<entry key="Notification_PlaceStaffBuildingButton" translation="Posiziona Edificio Staff"/>
 		<entry key="Notification_ResearchAvailable" translation="Nuovi progetti di ricerca disponibili"/>
-		<entry key="Notification_ResearchAvailableStacked" translation="Multipli progetti di ricerca disponibili"/>
+		<entry key="Notification_ResearchAvailableStacked" translation="Vari progetti di ricerca disponibili"/>
 		<entry key="Notification_ResearchButton" translation="Visualizza ricerche"/>
 		<entry key="Notification_ResearchCompleted" translation="Progetto di ricerca pronto"/>
-		<entry key="Notification_ResearchCompletedStacked" translation="Multipli progetti di ricerca disponibili"/>
-		<entry key="Notification_RestaurantDuplicatedNoRooms" translation="Your new Restaurant, '{Name}' does not have any connected rooms."/>
-		<entry key="Notification_RestaurantDuplicatedNoRoomsButton" translation="View Restaurant"/>
-		<entry key="Notification_RestaurantDuplicatedNoRoomsStacked" translation="Multiple new restaurants do not have any connected rooms."/>
+		<entry key="Notification_ResearchCompletedStacked" translation="Vari progetti di ricerca disponibili"/>
+		<entry key="Notification_RestaurantDuplicatedNoRooms" translation="Il tuo nuovo ristorante, '{Name}' non ha camere connesse."/>
+		<entry key="Notification_RestaurantDuplicatedNoRoomsButton" translation="Guarda il ristorante"/>
+		<entry key="Notification_RestaurantDuplicatedNoRoomsStacked" translation="Diversi nuovi ristoranti non hanno camere connesse."/>
 		<entry key="Notification_RideBroken" translation="{Name} si è guastata"/>
-		<entry key="Notification_RideBrokenNoMechanics" translation="{Name} has broken down; hire a mechanic to fix it."/>
-		<entry key="Notification_RideBrokenNoMechanicsStacked" translation="Multiple rides are broken down; hire mechanics to fix them."/>
+		<entry key="Notification_RideBrokenNoMechanics" translation="{Name} si è guastata; assumi un manutentore per aggiustarla."/>
+		<entry key="Notification_RideBrokenNoMechanicsStacked" translation="Molte attrazioni sono rotte; assumi un manutentore per aggiustarle."/>
 		<entry key="Notification_RideBrokenStacked" translation="Molte attrazione si sono guastate&#10;Assicurati che i manutentori le ispezionino spesso"/>
 		<entry key="Notification_RideButton" translation="Visualizza attrazione"/>
 		<entry key="Notification_RideCrashed" translation="{Name} si è schiantata!"/>
@@ -16154,9 +16154,9 @@
 		<entry key="Notification_RideNoAssessment" translation="{Name} non è stata testata"/>
 		<entry key="Notification_RideNoAssessmentStacked" translation="Molte attrazioni non sono state testate"/>
 		<entry key="Notification_RideNoEntrance" translation="Non esiste un entrata per {Name}"/>
-		<entry key="Notification_RideNoEntranceStacked" translation="Molte attrazioni non hanno un entrata"/>
-		<entry key="Notification_RideNoExit" translation="Non esiste un uscita per {Name}"/>
-		<entry key="Notification_RideNoExitStacked" translation="Molte attrazioni non hanno un uscita"/>
+		<entry key="Notification_RideNoEntranceStacked" translation="Molte attrazioni non hanno un'entrata"/>
+		<entry key="Notification_RideNoExit" translation="Non esiste un'uscita per {Name}"/>
+		<entry key="Notification_RideNoExitStacked" translation="Molte attrazioni non hanno un'uscita"/>
 		<entry key="Notification_RideNoPathToEntrance" translation="L'entrata di {Name} non è accessibile dall'entrata del parco"/>
 		<entry key="Notification_RideNoPathToEntranceStacked" translation="Molte attrazioni non sono accessibili dall'entrata del parco"/>
 		<entry key="Notification_RideNoPathToExit" translation="L'entrata del parco non è accessibile dall'uscita di {Name}"/>
@@ -16172,41 +16172,41 @@
 		<entry key="Notification_RidePrestigeChangedToResurging" translation="{Name} sta guadagnano reputazione&#10; I visitatori aumenteranno il proprio interesse verso questa attrazione"/>
 		<entry key="Notification_RidePrestigeChangedToResurgingStacked" translation="Molte attrazioni stanno guadagnano reputazione&#10; I visitatori aumenteranno il proprio interesse verso queste attrazioni"/>
 		<entry key="Notification_RideStillBroken" translation="{Name} è ancora malfunzionante"/>
-		<entry key="Notification_RideStillBrokenNoMechanics" translation="{Name} is still broken down; hire a mechanic to fix it."/>
-		<entry key="Notification_RideStillBrokenNoMechanicsStacked" translation="Multiple rides are still broken down; hire mechanics to fix them."/>
+		<entry key="Notification_RideStillBrokenNoMechanics" translation="{Name} è ancora rotto; assumi un manutentore per aggiustarlo."/>
+		<entry key="Notification_RideStillBrokenNoMechanicsStacked" translation="Diverse attrazioni sono ancora rotte; assumi un manutentore per aggiustarle."/>
 		<entry key="Notification_RideStillBrokenStacked" translation="Molte attrazioni sono ancora malfunzionanti"/>
 		<entry key="Notification_RideTooCheap" translation="I visitatori pensano che {Name} sia conveniente"/>
 		<entry key="Notification_RideTooCheapStacked" translation="I visitatori pensano che molte attrazioni siano convenienti"/>
 		<entry key="Notification_RideTooExpensive" translation="I visitatori pensano che {Name} sia troppo costosa"/>
 		<entry key="Notification_RideTooExpensiveStacked" translation="I visitatori pensano che molte attrazioni siano troppo costose"/>
-		<entry key="Notification_RideTooIntense" translation="molti visitatori pensano che {Name} è troppo paurosa!"/>
-		<entry key="Notification_RideTooIntenseStacked" translation="molti visitatori pensano che parecchie attrazioni siano troppo paurose!"/>
-		<entry key="Notification_RideWayTooIntense" translation="molti visitatori pensano che {Name} è davvero troppo paurosa!"/>
-		<entry key="Notification_RideWayTooIntenseStacked" translation="molti visitatori pensano che parecchie attrazioni siano davvero troppo paurose!"/>
-		<entry key="Notification_ShopEmptyInitial" translation="Il chiosco {StallName} è vuoto da un pò di tempo"/>
-		<entry key="Notification_ShopEmptyInitialStacked" translation="Molti negozi non hanno un commesso"/>
-		<entry key="Notification_ShopEmptyRepeated" translation="Il chiosco {StallName} non ha ancora un commesso"/>
-		<entry key="Notification_ShopEmptyRepeatedStacked" translation="Molti negozi non hanno ancora un commesso"/>
-		<entry key="Notification_SlimerEscaped" translation="Slimer has escaped from the containment system!"/>
-		<entry key="Notification_StaffBuildingsClosed" translation="Tutte le strutture per i dipendenti sono chiuse. I dipendenti hanno bisogno di prendere una pausa o smetteranno di lavorare!"/>
+		<entry key="Notification_RideTooIntense" translation="Molti visitatori pensano che {Name} è troppo paurosa!"/>
+		<entry key="Notification_RideTooIntenseStacked" translation="Molti visitatori pensano che parecchie attrazioni siano troppo paurose!"/>
+		<entry key="Notification_RideWayTooIntense" translation="Molti visitatori pensano che {Name} è davvero troppo paurosa!"/>
+		<entry key="Notification_RideWayTooIntenseStacked" translation="Molti visitatori pensano che parecchie attrazioni siano davvero troppo paurose!"/>
+		<entry key="Notification_ShopEmptyInitial" translation="Il negozio {StallName} è vuoto da un pò"/>
+		<entry key="Notification_ShopEmptyInitialStacked" translation="Più di un negozio non ha venditori"/>
+		<entry key="Notification_ShopEmptyRepeated" translation="Al negozio {StallName} manca ancora un venditore"/>
+		<entry key="Notification_ShopEmptyRepeatedStacked" translation="Più di un negozio non ha ancora venditori"/>
+		<entry key="Notification_SlimerEscaped" translation="Slimer è scappato dal sistema di contenimento!"/>
+		<entry key="Notification_StaffBuildingsClosed" translation="Tutti gli edifici dello staff sono chiusi. Lo staff ha bisogno di riposarsi ogni tanto, altrimenti smette di lavorare!"/>
 		<entry key="Notification_StaffButton" translation="Visualizza dipendenti"/>
-		<entry key="Notification_StaffHappinessDropping" translation="La felicità dei dipendenti sta diminuendo"/>
-		<entry key="Notification_StaffHappinessHighDropping" translation="La felicità dei dipendenti è in declino"/>
-		<entry key="Notification_StaffHighWorkload" translation="Molti dipendenti hanno un grande carico di lavoro"/>
-		<entry key="Notification_StaffLowWorkload" translation="Molti dipendenti non hanno un grande carico di lavoro"/>
+		<entry key="Notification_StaffHappinessDropping" translation="La felicità media dello staff è calata"/>
+		<entry key="Notification_StaffHappinessHighDropping" translation="La felicità media dello staff è precipitata"/>
+		<entry key="Notification_StaffHighWorkload" translation="Diversi membri dello staff hanno un carico di lavoro elevato"/>
+		<entry key="Notification_StaffLowWorkload" translation=" Diversi membri dello staff hanno un carico di lavoro basso"/>
 		<entry key="Notification_StaffNoPathTo" translation="Nessun percorso per arrivare al dipendente {Name} ({StaffType})"/>
 		<entry key="Notification_StaffNoPathToStacked" translation="Impossibile raggiungere il dipendente"/>
-		<entry key="Notification_StaffOnStrike" translation="Il dipendente {Name} ({StaffType}) sta scioperando sotto stipendio"/>
-		<entry key="Notification_StaffOnStrikeStacked" translation="Molti dipendenti stanno scioperando sotto stipendio"/>
+		<entry key="Notification_StaffOnStrike" translation="Il membro dello staff {Name} ({StaffType}) sta scioperando per la paga"/>
+		<entry key="Notification_StaffOnStrikeStacked" translation="Diversi membri dello staff stanno scioperando per la paga"/>
 		<entry key="Notification_StaffQuit" translation="{Name} ({StaffType}) si è licenziato"/>
 		<entry key="Notification_StaffQuitStacked" translation="Molti dipendenti si sono licenziati"/>
 		<entry key="Notification_StaffTrappedInPark" translation="Il dipendente {Name} ({StaffType}) non può lasciare il parco"/>
 		<entry key="Notification_StaffTrappedInParkStacked" translation="Molti dipendenti non possono lasciare il parco"/>
 		<entry key="Notification_StaffUnhappy" translation="{Name} ({StaffType}) è infelice"/>
 		<entry key="Notification_StaffUnhappyStacked" translation="Molti dipendenti sono infelici"/>
-		<entry key="Notification_StaffUnhappyVendors" translation="Molti dei tuoi dipendenti sono infelici e saranno meno efficienti."/>
+		<entry key="Notification_StaffUnhappyVendors" translation="Molti dei tuoi venditori sono infelici e saranno meno efficienti."/>
 		<entry key="Notification_StaffVendorQuit" translation="{StaffName} ({StaffType}) si è licenziato. {StallName} ha chiuso"/>
-		<entry key="Notification_StaffVendorQuitStacked" translation="Molti venditori si sono licenziati. I loro negozi sono chiusi"/>
+		<entry key="Notification_StaffVendorQuitStacked" translation="Molti venditori si sono licenziati. I loro negozi hanno chiuso"/>
 		<entry key="Notification_StaffWantsToQuit" translation="{Name} ({StaffType}) sta pensando di licenziarsi"/>
 		<entry key="Notification_StaffWantsToQuitStacked" translation="Molti dipendenti stanno pensando di licenziarsi"/>
 		<entry key="Notification_StallButton" translation="Visualizza struttura"/>
@@ -16218,14 +16218,14 @@
 		<entry key="Notification_StallTooCheapStacked" translation="I visitatori pensano che molti dei negozi siano convenienti"/>
 		<entry key="Notification_StallTooExpensive" translation="I visitatori pensano che gli oggetti da {Name} siano troppo costosi "/>
 		<entry key="Notification_StallTooExpensiveStacked" translation="I visitatori pensano che molti dei negozi siano troppo costosi"/>
-		<entry key="Notification_TableChallengeTax" translation="Tasse di manutenzione:"/>
-		<entry key="Notification_TableProfitChange" translation="Profitto Mensile:"/>
-		<entry key="Notification_TableRatingChange" translation="Valutazione Parco:"/>
+		<entry key="Notification_TableChallengeTax" translation="Tassa ambientale:"/>
+		<entry key="Notification_TableProfitChange" translation="Profitto mensile:"/>
+		<entry key="Notification_TableRatingChange" translation="Voto Parco:"/>
 		<entry key="Notification_TableThefts" translation="Furti:"/>
 		<entry key="Notification_TriggerFailedForCost" translation="Un oggetto innescato non ha funzionato, perchè ti mancano i fondi per farlo."/>
 		<entry key="Notification_TriggerFailedForCostStacked" translation="Degli oggetti innescati non hanno funzionato, perchè ti mancano i fondi per farlo."/>
 		<entry key="Notification_TriggeredItemButton" translation="Vedi Oggetti Innescati"/>
-		<entry key="Notification_UnownedHotelRooms" translation="Il tuo parco contiene stanze non collegate ad un Hotel. Non saranno utilizzabili"/>
+		<entry key="Notification_UnownedHotelRooms" translation="Il tuo parco ha camere non connesse con un hotel. Non sono disponibili"/>
 		<entry key="Notification_VandalisedObjectNearSecurityCamera" translation="Vandalismo registrato da una telecamera di sicurezza."/>
 		<entry key="Notification_VandalisedObjectNearSecurityCameraStacked" translation="Molti atti di vandalismo sono stati visti da una telecamera di sicurezza."/>
 		<entry key="Notification_Vandalism" translation="Visualizza"/>
@@ -27084,7 +27084,7 @@
 		<entry key="Tag_Blueprint_CoasterWooden" translation="Di Legno"/>
 		<entry key="Tag_Blueprint_GentleRide" translation="Attrazioni Tranquille"/>
 		<entry key="Tag_Blueprint_Interactive" translation="Attrazioni Interattive"/>
-		<entry key="Tag_Blueprint_InteractiveRide" translation="Interactive Ride"/>
+		<entry key="Tag_Blueprint_InteractiveRide" translation="Attrazione Interattiva"/>
 		<entry key="Tag_Blueprint_Inverting" translation="Attrazioni Capovolte"/>
 		<entry key="Tag_Blueprint_LargeRide" translation="Attrazioni Grandi"/>
 		<entry key="Tag_Blueprint_MediumRide" translation="Attrazioni Medie"/>
@@ -27168,7 +27168,7 @@
 		<entry key="Tag_Nature_Tree" translation="Alberi"/>
 		<entry key="Tag_Nature_Vines" translation="Vitigni"/>
 		<entry key="Tag_Property_Billboard" translation="Cartelli"/>
-		<entry key="Tag_Property_Target" translation="Targetable"/>
+		<entry key="Tag_Property_Target" translation="Bersagliabile"/>
 		<entry key="Tag_Props_AncientStatue" translation="Pezzi Statue Antiche"/>
 		<entry key="Tag_Props_Campsite" translation="Campeggio"/>
 		<entry key="Tag_Props_ChristmasTree" translation="Decorazioni Albero di Natale"/>
@@ -27438,7 +27438,7 @@
 		<entry key="Guest_Thought_Assessment_ItemExpensive_Child_02" translation="Non possiamo spendere così tanto per {reference}"/>
 		<entry key="Guest_Thought_Assessment_ItemExpensive_Child_03" translation="{reference} non vale così tanto"/>
 		<entry key="Guest_Thought_Assessment_ItemExpensive_Common_01" translation="{reference} è troppo costoso per me"/>
-		<entry key="Guest_Thought_Assessment_ItemExpensive_Common_02" translation="non pagherò così tanto per {reference}"/>
+		<entry key="Guest_Thought_Assessment_ItemExpensive_Common_02" translation="Non pagherò così tanto per {reference}"/>
 		<entry key="Guest_Thought_Assessment_ItemExpensive_Teen_01" translation="Quanto vuole per? {reference}!?"/>
 		<entry key="Guest_Thought_Assessment_ItemExpensive_Teen_02" translation="Non esiste che pago così tanto per {reference}"/>
 		<entry key="Guest_Thought_Assessment_ItemExpensive_Teen_03" translation="{reference} è così costosa!"/>
@@ -27513,11 +27513,11 @@
 		<entry key="Guest_Thought_Assessment_RideCheap_ParkEntryLow_Adult_02" translation="Wow, {reference} è economico e ho pagato pochissimo per entrare nel parco!"/>
 		<entry key="Guest_Thought_Assessment_RideCheap_ParkEntryLow_Adult_03" translation="L'entrata del parco è economica, e anche {reference}! Incredibile!"/>
 		<entry key="Guest_Thought_Assessment_RideCheap_ParkEntryLow_Child_01" translation="Il prezzo per {reference} e il biglietto d'entrata è un affare!"/>
-		<entry key="Guest_Thought_Assessment_RideCheap_ParkEntryLow_Child_02" translation="Il prezzo d'entrata è una affare quando quello di {reference} è così basso!"/>
+		<entry key="Guest_Thought_Assessment_RideCheap_ParkEntryLow_Child_02" translation="Il prezzo d'entrata è un affare se quello di {reference} è così basso!"/>
 		<entry key="Guest_Thought_Assessment_RideCheap_ParkEntryLow_Child_03" translation="Dopo essere entrato nel parco mi sono avanzati molti soldi, e anche {reference} è molto economico !"/>
 		<entry key="Guest_Thought_Assessment_RideCheap_ParkEntryLow_Common_01" translation="Questo parco è un affare, entrata economica  e adesso anche {reference} lo è!"/>
 		<entry key="Guest_Thought_Assessment_RideCheap_ParkEntryLow_Teen_01" translation="{reference} è un furto considerando quanto poco ho pagato l'ingresso"/>
-		<entry key="Guest_Thought_Assessment_RideCheap_ParkEntryLow_Teen_02" translation="Entrata economica, e anche {reference} non scherza! Figo!"/>
+		<entry key="Guest_Thought_Assessment_RideCheap_ParkEntryLow_Teen_02" translation="Entrata economica, e anche {reference} non scherza! Fico!"/>
 		<entry key="Guest_Thought_Assessment_RideCheap_ParkEntryLow_Teen_03" translation="{reference} Potrebbe costare tranquillamente molto di più dato il prezzo d'ingresso del parco!"/>
 		<entry key="Guest_Thought_Assessment_RideExpensive_ParkEntryHigh_Adult_01" translation="{reference} è troppo costoso, considerando il prezzo d'ingresso del parco"/>
 		<entry key="Guest_Thought_Assessment_RideExpensive_ParkEntryHigh_Adult_02" translation="Wow, {reference} è troppo costoso considerando il prezzo d'ingresso del parco"/>
@@ -27619,7 +27619,7 @@
 		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Teen_01" translation="{reference} è così... yawn"/>
 		<entry key="Guest_Thought_Assessment_SmallAttractionNotIntenseEnough_Teen_02" translation="{reference} sembra mega-noioso per me!"/>
 		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Adult_01" translation="{reference} sembra intenso"/>
-		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Adult_02" translation="I bet {reference} è intenso!"/>
+		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Adult_02" translation="Scommetto che {reference} è intenso!"/>
 		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Child_01" translation="{reference} sembra troppo spaventoso per me"/>
 		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Child_02" translation="Yikes! {reference} è spaventoso!"/>
 		<entry key="Guest_Thought_Assessment_SmallAttractionTooIntense_Common_01" translation="{reference} sembra troppo spaventoso"/>
@@ -27853,7 +27853,7 @@
 		<entry key="Guest_Thought_Fluff_OnRide_IntensityHigh_Child_02" translation="Questo è spaventoso! - {reference}"/>
 		<entry key="Guest_Thought_Fluff_OnRide_IntensityHigh_Child_03" translation="Sono spaventato! - {reference}!"/>
 		<entry key="Guest_Thought_Fluff_OnRide_IntensityHigh_Common_01" translation="{reference} sembra intenso!"/>
-		<entry key="Guest_Thought_Fluff_OnRide_IntensityHigh_Teen_01" translation="Questa forza G è così forte! - {reference}"/>
+		<entry key="Guest_Thought_Fluff_OnRide_IntensityHigh_Teen_01" translation="Questa forza G è così intensa! - {reference}"/>
 		<entry key="Guest_Thought_Fluff_OnRide_IntensityHigh_Teen_02" translation="Aaaaaaah! - {reference}"/>
 		<entry key="Guest_Thought_Fluff_OnRide_IntensityHigh_Teen_03" translation="Woah! Questo è stato intenso! - {reference}"/>
 		<entry key="Guest_Thought_Fluff_OnRide_Nausea_Adult_01" translation="Spero di non vomitare! - {reference}"/>
@@ -27929,62 +27929,62 @@
 		<entry key="Guest_Thought_GoingHome_Common_03" translation="Momento di rincasare!"/>
 		<entry key="Guest_Thought_GoingHome_Common_04" translation="Andiamocene via da qui"/>
 		<entry key="Guest_Thought_GoingHome_Teen_01" translation="Che giornata fantastica"/>
-		<entry key="Guest_Thought_GoingHome_Teen_02" translation="Sono sfinito, per oggi ho finito"/>
+		<entry key="Guest_Thought_GoingHome_Teen_02" translation="Sono stanchissimo, per oggi ho finito"/>
 		<entry key="Guest_Thought_GoingHome_Teen_03" translation="È ora di andarsene, credo."/>
 		<entry key="Guest_Thought_GoingHome_Teen_04" translation="È stato bello finché è durato"/>
-		<entry key="Guest_Thought_GozerEffect_Energy_Common_01" translation="I think Gozer is draining me of energy!"/>
-		<entry key="Guest_Thought_GozerEffect_Energy_Common_02" translation="Gozer has made me feel sleepy."/>
-		<entry key="Guest_Thought_GozerEffect_Energy_Common_03" translation="I really need a rest. Gozer has made me tired."/>
-		<entry key="Guest_Thought_GozerEffect_Happiness_Common_01" translation="Gozer has ruined my day!"/>
-		<entry key="Guest_Thought_GozerEffect_Happiness_Common_02" translation="Just my luck! Gozer really makes me unhappy!"/>
-		<entry key="Guest_Thought_GozerEffect_Happiness_Common_03" translation="Can't they just get rid of Gozer already?"/>
-		<entry key="Guest_Thought_GozerEffect_Nausea_Common_01" translation="Gozer has made me feel sick!"/>
-		<entry key="Guest_Thought_GozerEffect_Nausea_Common_02" translation="I don't feel so good. I think Gozer is affecting me somehow."/>
-		<entry key="Guest_Thought_GozerEffect_Nausea_Common_03" translation="What was that? That is making me feel really sick. It must have been Gozer."/>
-		<entry key="Guest_Thought_GozerEffect_Toilet_Common_01" translation="Gozer is so scary! I think i need the toilet!"/>
-		<entry key="Guest_Thought_GozerEffect_Toilet_Common_02" translation="Gozer has made me need the toilet!"/>
-		<entry key="Guest_Thought_GozerEffect_Toilet_Common_03" translation="How can Gozer make me need the toilet?"/>
-		<entry key="Guest_Thought_Hotel_Both_PriceFree_Common_01" translation="What?! It's completely free to stay at {reference}?!"/>
-		<entry key="Guest_Thought_Hotel_Luxury_NoPriorityPass_Common_01" translation="I don't have a Priority Pass, so I can't stay in a luxury room at {reference}!"/>
-		<entry key="Guest_Thought_Hotel_Luxury_PriceCheap_Common_01" translation="Luxury Rooms at {reference} are so cheap!"/>
-		<entry key="Guest_Thought_Hotel_Luxury_PriceExpensive_Common_01" translation="Luxury Rooms at {reference} are too expensive!"/>
-		<entry key="Guest_Thought_Hotel_Luxury_PriceFree_Common_01" translation="What?! It's free to stay in a Luxury Room at {reference}?!"/>
-		<entry key="Guest_Thought_Hotel_Luxury_PriceFree_Common_02" translation="I can't believe the Luxury Rooms at {reference} are free!"/>
-		<entry key="Guest_Thought_Hotel_Luxury_PriceReasonable_Common_01" translation="Luxury Rooms at {reference} are well priced"/>
-		<entry key="Guest_Thought_Hotel_Luxury_PriorityPass_Common_01" translation="I am glad I got the Priority Pass now!"/>
-		<entry key="Guest_Thought_Hotel_Luxury_PriorityPass_Common_02" translation="The Luxury Rooms at {reference} must be special if I need my Priority Pass"/>
-		<entry key="Guest_Thought_Hotel_Need_Common_01" translation="This place is great! I want to stay the night!"/>
-		<entry key="Guest_Thought_Hotel_Need_Common_02" translation="I've had so much fun, I'm going to come back tomorrow!"/>
-		<entry key="Guest_Thought_Hotel_NoLuxuryRooms_Common_01" translation="There aren't any luxury rooms at {reference}!"/>
-		<entry key="Guest_Thought_Hotel_NoNeed_Common_01" translation="I want to stay the night here, but there's no hotels"/>
-		<entry key="Guest_Thought_Hotel_NoRooms_Common_01" translation="I want to stay at {reference}, but it's full!"/>
-		<entry key="Guest_Thought_Hotel_NoStandardRooms_Common_01" translation="There aren't any normal rooms at {reference}!"/>
-		<entry key="Guest_Thought_Hotel_PerkGood_Arcade_Common_01" translation="Wow! {reference} has an Arcade!"/>
-		<entry key="Guest_Thought_Hotel_PerkGood_Gym_Common_01" translation="Wow! {reference} has a Gym!"/>
-		<entry key="Guest_Thought_Hotel_PerkGood_Restaurant_Common_01" translation="Wow! {reference} has a Restaurant!"/>
-		<entry key="Guest_Thought_Hotel_PerkGood_RoomService_Common_01" translation="Wow! {reference} has Room Service!"/>
-		<entry key="Guest_Thought_Hotel_PerkGood_Spa_Common_01" translation="Wow! {reference} has a Spa!"/>
-		<entry key="Guest_Thought_Hotel_PerkGood_Wifi_Common_01" translation="Wow! {reference} has Internet Access!"/>
-		<entry key="Guest_Thought_Hotel_PerkMissing_Arcade_Common_01" translation="Why is there not an Arcade!"/>
-		<entry key="Guest_Thought_Hotel_PerkMissing_Gym_Common_01" translation="Why is there not a Gym!"/>
-		<entry key="Guest_Thought_Hotel_PerkMissing_Restaurant_Common_01" translation="Why is there not a Restaurant!"/>
-		<entry key="Guest_Thought_Hotel_PerkMissing_RoomService_Common_01" translation="Why is there no Room Service!"/>
-		<entry key="Guest_Thought_Hotel_PerkMissing_Spa_Common_01" translation="Why is there not a Spa!"/>
-		<entry key="Guest_Thought_Hotel_PerkMissing_Wifi_Common_01" translation="Why is there no Internet Access!"/>
-		<entry key="Guest_Thought_Hotel_Perk_All_Common_01" translation="This hotel has it all!"/>
-		<entry key="Guest_Thought_Hotel_Perk_All_Common_02" translation="This hotel has all my favourite perks!"/>
-		<entry key="Guest_Thought_Hotel_Prestige_High_Common_01" translation="{reference} is a fancy hotel!"/>
-		<entry key="Guest_Thought_Hotel_Prestige_Low_Common_01" translation="{reference} isn't very prestigious"/>
-		<entry key="Guest_Thought_Hotel_Scenery_High_Common_01" translation="{reference} is well decorated"/>
-		<entry key="Guest_Thought_Hotel_Scenery_Low_Common_01" translation="{reference} is a bit bland"/>
-		<entry key="Guest_Thought_Hotel_Standard_NoPriorityPass_Common_01" translation="I don't have a Priority Pass, so I can't stay in a standard room at {reference}!"/>
-		<entry key="Guest_Thought_Hotel_Standard_PriceCheap_Common_01" translation="Standard Rooms at {reference} are so cheap!"/>
-		<entry key="Guest_Thought_Hotel_Standard_PriceExpensive_Common_01" translation="Standard Rooms at {reference} are too expensive!"/>
-		<entry key="Guest_Thought_Hotel_Standard_PriceFree_Common_01" translation="What?! It's free to stay in a Standard Room at {reference}?!"/>
-		<entry key="Guest_Thought_Hotel_Standard_PriceFree_Common_02" translation="Non posso credere che le camere standard da {reference} sono gratis!"/>
+		<entry key="Guest_Thought_GozerEffect_Energy_Common_01" translation="Penso che Gozer mi stia succhiando l'energia!"/>
+		<entry key="Guest_Thought_GozerEffect_Energy_Common_02" translation="Gozer mi ha fatto venire sonno."/>
+		<entry key="Guest_Thought_GozerEffect_Energy_Common_03" translation="Ho  bisogno di riposo. Gozer mi ha fatto stancare."/>
+		<entry key="Guest_Thought_GozerEffect_Happiness_Common_01" translation="Gozer mi ha rovinato la giornata!"/>
+		<entry key="Guest_Thought_GozerEffect_Happiness_Common_02" translation="Che sfortuna! Gozer mi rende davvero infelice!"/>
+		<entry key="Guest_Thought_GozerEffect_Happiness_Common_03" translation="Non si possono semplicemnete sbarazzare di Gozer?"/>
+		<entry key="Guest_Thought_GozerEffect_Nausea_Common_01" translation="Gozer mi ha fatto stare male!"/>
+		<entry key="Guest_Thought_GozerEffect_Nausea_Common_02" translation="Non mi sento molto bene. Penso che Gozer mi abbia infettato in qualche modo."/>
+		<entry key="Guest_Thought_GozerEffect_Nausea_Common_03" translation="Che cosa era? Mi sta facendo davvero stare male. Deve esser stato Gozer."/>
+		<entry key="Guest_Thought_GozerEffect_Toilet_Common_01" translation="Gozer è così spaventoso! Penso di avere bisogno del bagno!"/>
+		<entry key="Guest_Thought_GozerEffect_Toilet_Common_02" translation="Gozer mi ha fatto avere bisogno del bagno!"/>
+		<entry key="Guest_Thought_GozerEffect_Toilet_Common_03" translation="Come fa Gozer a farmi avere biogno del bagno?"/>
+		<entry key="Guest_Thought_Hotel_Both_PriceFree_Common_01" translation="Cosa?! E' completamente gratis stare da {reference}?!"/>
+		<entry key="Guest_Thought_Hotel_Luxury_NoPriorityPass_Common_01" translation="Non ho un Pass Prioritario, perciò non posso stare in una camera di lusso da {reference}!"/>
+		<entry key="Guest_Thought_Hotel_Luxury_PriceCheap_Common_01" translation="Le camere di lusso da {reference} sono molto economiche!"/>
+		<entry key="Guest_Thought_Hotel_Luxury_PriceExpensive_Common_01" translation="Le camere di lusso da {reference} sono troppo care!"/>
+		<entry key="Guest_Thought_Hotel_Luxury_PriceFree_Common_01" translation="Cosa?! Le camere di lusso sono completamente gratis da {reference}?!"/>
+		<entry key="Guest_Thought_Hotel_Luxury_PriceFree_Common_02" translation="Non posso credere che le camere di lusso da {reference} siano gratis!"/>
+		<entry key="Guest_Thought_Hotel_Luxury_PriceReasonable_Common_01" translation="Le camere di lusso da {reference} hanno un buon prezzo"/>
+		<entry key="Guest_Thought_Hotel_Luxury_PriorityPass_Common_01" translation="Ora sono felice di avere il Pass Prioritario!"/>
+		<entry key="Guest_Thought_Hotel_Luxury_PriorityPass_Common_02" translation="Le camere di lusso da {reference} devono essere speciali se c'è bisogno del Pass Prioritario"/>
+		<entry key="Guest_Thought_Hotel_Need_Common_01" translation="Questo posto è meraviglioso! Voglio stare qui stanotte!"/>
+		<entry key="Guest_Thought_Hotel_Need_Common_02" translation="Mi sono divertito molto, ci tornerò domani!"/>
+		<entry key="Guest_Thought_Hotel_NoLuxuryRooms_Common_01" translation="Non ci sono camere di lusso da {reference}!"/>
+		<entry key="Guest_Thought_Hotel_NoNeed_Common_01" translation="Vorrei stare qui stanotte, ma non ci sono hotel!"/>
+		<entry key="Guest_Thought_Hotel_NoRooms_Common_01" translation="Vorrei stare da {reference}, ma è pieno!"/>
+		<entry key="Guest_Thought_Hotel_NoStandardRooms_Common_01" translation="Non ci sono camere normali da {reference}!"/>
+		<entry key="Guest_Thought_Hotel_PerkGood_Arcade_Common_01" translation="Wow! {reference} ha una sala giochi!"/>
+		<entry key="Guest_Thought_Hotel_PerkGood_Gym_Common_01" translation="Wow! {reference} ha una palestra!"/>
+		<entry key="Guest_Thought_Hotel_PerkGood_Restaurant_Common_01" translation="Wow! {reference} ha un ristorante!"/>
+		<entry key="Guest_Thought_Hotel_PerkGood_RoomService_Common_01" translation="Wow! {reference} ha il servizio in camera!"/>
+		<entry key="Guest_Thought_Hotel_PerkGood_Spa_Common_01" translation="Wow! {reference} ha una Spa!"/>
+		<entry key="Guest_Thought_Hotel_PerkGood_Wifi_Common_01" translation="Wow! {reference} ha accesso a Internet!"/>
+		<entry key="Guest_Thought_Hotel_PerkMissing_Arcade_Common_01" translation="Perchè non c'è una sala giochi!"/>
+		<entry key="Guest_Thought_Hotel_PerkMissing_Gym_Common_01" translation="Perchè non c'è una palestra!"/>
+		<entry key="Guest_Thought_Hotel_PerkMissing_Restaurant_Common_01" translation="Perchè non c'è un ristorante!"/>
+		<entry key="Guest_Thought_Hotel_PerkMissing_RoomService_Common_01" translation="Perchè non c'è servizio in camera!"/>
+		<entry key="Guest_Thought_Hotel_PerkMissing_Spa_Common_01" translation="Perchè non c'è una Spa!"/>
+		<entry key="Guest_Thought_Hotel_PerkMissing_Wifi_Common_01" translation="Perchè non ha un accesso a Internet!"/>
+		<entry key="Guest_Thought_Hotel_Perk_All_Common_01" translation="Questo hotel ha tutto!"/>
+		<entry key="Guest_Thought_Hotel_Perk_All_Common_02" translation="Questo hotel ha tutte le caratteristiche che preferisco!"/>
+		<entry key="Guest_Thought_Hotel_Prestige_High_Common_01" translation="{reference} è un hotel raffinato!"/>
+		<entry key="Guest_Thought_Hotel_Prestige_Low_Common_01" translation="{reference} non è molto prestigioso"/>
+		<entry key="Guest_Thought_Hotel_Scenery_High_Common_01" translation="{reference} è ben decorato"/>
+		<entry key="Guest_Thought_Hotel_Scenery_Low_Common_01" translation="{reference} è un po sciatto"/>
+		<entry key="Guest_Thought_Hotel_Standard_NoPriorityPass_Common_01" translation="Non ho un Pass Prioritario, perciò non posso stare in una camera standard da {reference}!"/>
+		<entry key="Guest_Thought_Hotel_Standard_PriceCheap_Common_01" translation="Le camere standard da {reference} sono molto economiche!"/>
+		<entry key="Guest_Thought_Hotel_Standard_PriceExpensive_Common_01" translation="Le camere standard da {reference} sono molto care!"/>
+		<entry key="Guest_Thought_Hotel_Standard_PriceFree_Common_01" translation="Cosa?! E' gratis stare nelle camere standard da {reference}?!"/>
+		<entry key="Guest_Thought_Hotel_Standard_PriceFree_Common_02" translation="Non posso credere che le camere standard da {reference} siano gratis!"/>
 		<entry key="Guest_Thought_Hotel_Standard_PriceReasonable_Common_01" translation="Le camere standard da {reference} hanno un ottimo prezzo"/>
 		<entry key="Guest_Thought_Hotel_Standard_PriorityPass_Common_01" translation="Sono felice di avere il Pass prioritario ora!"/>
-		<entry key="Guest_Thought_Hotel_Standard_PriorityPass_Common_02" translation="The Standard Rooms at {reference} must be special if I need my Priority Pass"/>
+		<entry key="Guest_Thought_Hotel_Standard_PriorityPass_Common_02" translation="Le camere standard da {reference} devono essere speciali se c'è bisogno del Pass Prioritario"/>
 		<entry key="Guest_Thought_HungerCritical_Destination_Common_01" translation="Sono affamato dopo {reference}"/>
 		<entry key="Guest_Thought_HungerCritical_Destination_Common_02" translation="{reference} mi rende affamato"/>
 		<entry key="Guest_Thought_HungerCritical_Destination_Common_03" translation="Sto morendo di fame dopo {reference}"/>
@@ -28151,7 +28151,7 @@
 		<entry key="Guest_Thought_ParkExit_GuestEjected_Common_01" translation="Non tornerò mai più in quel parco! Mi hanno espulso ma sono innocente! Diffonderò la notizia di questa ingiustizia!"/>
 		<entry key="Guest_Thought_ParkExit_Happy_Adult_01" translation="Se non dovessi tornare a casa, starei qui per sempre!"/>
 		<entry key="Guest_Thought_ParkExit_Happy_Adult_02" translation="Tutte le belle cose finiscono, anche questa giornata al parco divertimenti."/>
-		<entry key="Guest_Thought_ParkExit_Happy_Child_01" translation="Questo parco è davvero figo! Sicuramente ci tornerò!"/>
+		<entry key="Guest_Thought_ParkExit_Happy_Child_01" translation="Questo parco è davvero fico! Sicuramente ci tornerò!"/>
 		<entry key="Guest_Thought_ParkExit_Happy_Child_02" translation="IL MIGLIOR! PARCO! DI SEMPRE! come vorrei non andarmene mai!"/>
 		<entry key="Guest_Thought_ParkExit_Happy_Common_01" translation="Questo parco è pazzesco! Non me ne voglio andare!"/>
 		<entry key="Guest_Thought_ParkExit_Happy_Teen_01" translation="E' volato il tempo! non voglio andarme!"/>
@@ -28338,7 +28338,7 @@
 		<entry key="Guest_Thought_Security_VandalEjected_Common_03" translation="Perchè vandalizzo? Ora sarò espulso!"/>
 		<entry key="Guest_Thought_ShopItemPurchase_LuxuryBalloon_Common_01" translation="Evvai! Ho un palloncino!"/>
 		<entry key="Guest_Thought_ShopItemPurchase_LuxuryBalloon_Common_02" translation="Amo i palloncini!"/>
-		<entry key="Guest_Thought_ShopItemPurchase_LuxuryBalloon_Common_03" translation="Che fighi i palloncini!"/>
+		<entry key="Guest_Thought_ShopItemPurchase_LuxuryBalloon_Common_03" translation="Che fichi i palloncini!"/>
 		<entry key="Guest_Thought_ShopItemPurchase_LuxuryBalloon_Common_04" translation="Questo palloncino è fichissimo!"/>
 		<entry key="Guest_Thought_ShopItemPurchase_LuxuryHat_Common_01" translation="Non mi toglierò mai questo cappello!"/>
 		<entry key="Guest_Thought_ShopItemPurchase_LuxuryHat_Common_02" translation="Questo cappello è il migliore!"/>
@@ -28372,8 +28372,8 @@
 		<entry key="Guest_Thought_ShopItem_NeedSatisfied_Thirst_Teen_01" translation="Era una buona bibita"/>
 		<entry key="Guest_Thought_ShopItem_NeedSatisfied_Thirst_Teen_02" translation="Slurp! Ahhh... rinfrescante."/>
 		<entry key="Guest_Thought_ShopItem_NeedSatisfied_Thirst_Teen_03" translation="Mi sento pieno di energie e rinfrescato."/>
-		<entry key="Guest_Thought_ShopQueueFull_Adult_01" translation="è incredibile che {reference} sia così impegnato"/>
-		<entry key="Guest_Thought_ShopQueueFull_Adult_02" translation="tornerò dopo, quando {reference} sarà meno impesembra troppo lunga ora"/>
+		<entry key="Guest_Thought_ShopQueueFull_Adult_01" translation="E' incredibile che {reference} sia così impegnato"/>
+		<entry key="Guest_Thought_ShopQueueFull_Adult_02" translation="Tornerò dopo, quando {reference} sarà meno impesembra troppo lunga ora"/>
 		<entry key="Guest_Thought_ShopQueueFull_Adult_03" translation="La fila per {reference} sembra enorme adesso"/>
 		<entry key="Guest_Thought_ShopQueueFull_Child_01" translation="Aw! {reference} è troppo impegnata"/>
 		<entry key="Guest_Thought_ShopQueueFull_Child_02" translation="Non ci mettiamo in fila?? Ma io voglio qualcosa da {reference}! "/>
@@ -28386,7 +28386,7 @@
 		<entry key="Guest_Thought_ThirstCritical_Destination_Common_02" translation="{reference} mi ha fatto venire sete"/>
 		<entry key="Guest_Thought_ThirstCritical_Natural_Adult_01" translation="Ho davvero bisogno di una bibita"/>
 		<entry key="Guest_Thought_ThirstCritical_Natural_Adult_02" translation="Mi sa che mi prendo una bella bevanda fredda!"/>
-		<entry key="Guest_Thought_ThirstCritical_Natural_Adult_03" translation="Sono strafumata!"/>
+		<entry key="Guest_Thought_ThirstCritical_Natural_Adult_03" translation="Sono prosciugata!"/>
 		<entry key="Guest_Thought_ThirstCritical_Natural_Adult_04" translation="Dove devo andare per prendere qualcosa da bere quì!??"/>
 		<entry key="Guest_Thought_ThirstCritical_Natural_Child_01" translation="Posso avere una bibita?"/>
 		<entry key="Guest_Thought_ThirstCritical_Natural_Child_02" translation="Ho bisogno di qualcosa da bere"/>
@@ -28424,16 +28424,16 @@
 		<entry key="Guest_Thought_ToiletSatisfied_Destination_Common_01" translation="Sono felice che abbiano {reference}"/>
 		<entry key="Guest_Thought_ToiletSatisfied_Destination_Teen_01" translation="Mi sento benissimo dopo {reference}"/>
 		<entry key="Guest_Thought_ToiletSatisfied_Destination_Teen_02" translation="Avevo davvero bisogno di {reference}"/>
-		<entry key="Guest_Thought_Transport_CheaperToWalkFurther_Common_01" translation="{reference} è molto economica, ed è a pochi passi da qui"/>
-		<entry key="Guest_Thought_Transport_CheaperToWalkFurther_Common_02" translation="Dovrei usare {reference}, non è molto lontano da qui"/>
+		<entry key="Guest_Thought_Transport_CheaperToWalkFurther_Common_01" translation="{reference} is so much cheaper, and is only a short walk away"/>
+		<entry key="Guest_Thought_Transport_CheaperToWalkFurther_Common_02" translation="I should probably take {reference}, it's not too far from here"/>
 		<entry key="Guest_Thought_Transport_CheaperToWalkFurther_Common_03" translation="I'd rather pay less and use {reference} to get there"/>
 		<entry key="Guest_Thought_Trapped_Common_01" translation="Sono bloccato!"/>
 		<entry key="Guest_Thought_Trapped_Common_02" translation="Non posso andare da nessuna parte"/>
 		<entry key="Guest_Thought_Trapped_Common_03" translation="Aiuto!"/>
 		<entry key="Guest_Thought_Trapped_Common_04" translation="Qualcuno mi faccia uscire!"/>
-		<entry key="Guest_Thought_UnusableFacility_Common_01" translation="Non c'è modo di andare fino a {reference}!"/>
-		<entry key="Guest_Thought_UnusableFacility_Common_02" translation="Dove sono gli inservienti?! {reference} è un casino!"/>
-		<entry key="Guest_Thought_UnusableFacility_Common_03" translation="Sono preoccupato, potrei prendere qualcosa da {reference}."/>
+		<entry key="Guest_Thought_UnusableFacility_Common_01" translation="Neanche per sogno andrò da {reference}!"/>
+		<entry key="Guest_Thought_UnusableFacility_Common_02" translation="Dove sono gli spazzini?! {reference} è un disastro!"/>
+		<entry key="Guest_Thought_UnusableFacility_Common_03" translation="Ho paura di prendermi qualcosa da {reference}."/>
 		<entry key="Guest_Thought_Vandalism_GoingToVandalisedObject_Common_01" translation="Questo parco mi ha fatto arrabbiare, distruggerò qualcosa!"/>
 		<entry key="Guest_Thought_Vandalism_GoingToVandalisedObject_Common_02" translation="Devo sfogare questa rabbia su qualcosa!"/>
 		<entry key="Guest_Thought_Vandalism_GoingToVandalisedObject_Common_03" translation="Raaargh! Distruggero qualcosa!"/>
@@ -28507,22 +28507,22 @@
 		<entry key="Guest_Thought_Wandering_Common_02" translation="Diamo un'occhiata qui intorno"/>
 		<entry key="Guest_Thought_Wandering_Common_03" translation="Credo che ora andrò a curiosare"/>
 		<entry key="Guest_Thought_Wandering_Common_04" translation="Mi chiedo cos'altro ci sia qui intorno"/>
-		<entry key="Guest_Thought_Zoltran_BadFortune_Adult_01" translation="Why is it never good news? Thanks fortune"/>
-		<entry key="Guest_Thought_Zoltran_BadFortune_Adult_02" translation="This sounds awful... I hope it doesn't come true"/>
-		<entry key="Guest_Thought_Zoltran_BadFortune_Child_01" translation="What?! Why is my future so bad?"/>
-		<entry key="Guest_Thought_Zoltran_BadFortune_Child_02" translation="How could this happen to me? This fortune is bad"/>
-		<entry key="Guest_Thought_Zoltran_BadFortune_Common_01" translation="I'm cursed! Oh No!"/>
-		<entry key="Guest_Thought_Zoltran_BadFortune_Common_02" translation="I got a bad fortune."/>
-		<entry key="Guest_Thought_Zoltran_BadFortune_Common_03" translation="I don't understand this fortune."/>
-		<entry key="Guest_Thought_Zoltran_BadFortune_Teen_01" translation="This fortune is terrible!"/>
-		<entry key="Guest_Thought_Zoltran_BadFortune_Teen_02" translation="Who writes this stuff? What a bad fortune!"/>
-		<entry key="Guest_Thought_Zoltran_Balanced_Child_01" translation="{reference} knows the future! So Cool!"/>
-		<entry key="Guest_Thought_Zoltran_Balanced_Child_02" translation="{reference} is never wrong. It knows everything!"/>
+		<entry key="Guest_Thought_Zoltran_BadFortune_Adult_01" translation="Perchè mai una buona notizia? Che fortuna.."/>
+		<entry key="Guest_Thought_Zoltran_BadFortune_Adult_02" translation="E' terribile... Spero non diventi realtà"/>
+		<entry key="Guest_Thought_Zoltran_BadFortune_Child_01" translation="Cosa?! Perchè il mio futuro è così brutto?"/>
+		<entry key="Guest_Thought_Zoltran_BadFortune_Child_02" translation="Perchè è successo a me? Che sfortuna"/>
+		<entry key="Guest_Thought_Zoltran_BadFortune_Common_01" translation="Sono maledetto! Oh No!"/>
+		<entry key="Guest_Thought_Zoltran_BadFortune_Common_02" translation="Ho avuto sfortuna."/>
+		<entry key="Guest_Thought_Zoltran_BadFortune_Common_03" translation="Non capisco questa fortuna."/>
+		<entry key="Guest_Thought_Zoltran_BadFortune_Teen_01" translation="Questa fortuna è terribile!"/>
+		<entry key="Guest_Thought_Zoltran_BadFortune_Teen_02" translation="Chi scrive queste cose? Che sfortuna!"/>
+		<entry key="Guest_Thought_Zoltran_Balanced_Child_01" translation="{reference} vede il futuro! Che fico!"/>
+		<entry key="Guest_Thought_Zoltran_Balanced_Child_02" translation="{reference} non sbaglia mai. Sa tutto!"/>
 		<entry key="Guest_Thought_Zoltran_Balanced_Common_01" translation="I wonder what {reference} will predict"/>
 		<entry key="Guest_Thought_Zoltran_Balanced_Common_02" translation="Anything could happen when {reference} gives me my fortune"/>
-		<entry key="Guest_Thought_Zoltran_Balanced_Common_03" translation="Spero che {reference} mi porti fortuna!"/>
-		<entry key="Guest_Thought_Zoltran_GoodFortune_Child_01" translation="YAY! Ho tanta fortuna!"/>
-		<entry key="Guest_Thought_Zoltran_GoodFortune_Child_02" translation="Guarda che fortuna! E' magnifico"/>
+		<entry key="Guest_Thought_Zoltran_Balanced_Common_03" translation="I hope {reference} gives me a good fortune!"/>
+		<entry key="Guest_Thought_Zoltran_GoodFortune_Child_01" translation="YAY! My fortune sounds really good!"/>
+		<entry key="Guest_Thought_Zoltran_GoodFortune_Child_02" translation="Look at my fortune! It's great"/>
 		<entry key="Guest_Thought_Zoltran_GoodFortune_Common_01" translation="My fortunes says I'll be happy!"/>
 		<entry key="Guest_Thought_Zoltran_GoodFortune_Common_02" translation="My fortunes says I'm going to ride lots of rides!"/>
 		<entry key="Guest_Thought_Zoltran_GoodFortune_Common_03" translation="My fortunes says I'll do something exciting!"/>
@@ -28722,9 +28722,9 @@
 		<entry key="TrackEditParam_HydraulicLaunchLauchSpeed" translation="Velocità di Arrivo"/>
 		<entry key="TrackEditParam_HydraulicLaunchReturnSpeed" translation="Velocità di Aggancio Vagoni"/>
 		<entry key="TrackEditParam_LengthRangeMetres" translation="Metri di Lunghezza"/>
-		<entry key="TrackEditParam_NonStopStationSpeed" translation="Velocità in stazione"/>
+		<entry key="TrackEditParam_NonStopStationSpeed" translation="Station Speed"/>
 		<entry key="TrackEditParam_OptionalCatwalk" translation="Passerella Opzionale"/>
-		<entry key="TrackEditParam_OptionalLights" translation="Luci Opzionali"/>
+		<entry key="TrackEditParam_OptionalLights" translation="Optional Lights"/>
 		<entry key="TrackEditParam_OptionalRailing" translation="Ringhiere Opzionali"/>
 		<entry key="TrackEditParam_OptionalSpine" translation="Optional Spine"/>
 		<entry key="TrackEditParam_ReverseLaunchAcceleration" translation="Accelerazione in Avanti"/>
@@ -28738,8 +28738,8 @@
 		<entry key="TrackEditParam_StationExitSide" translation="Lato Uscita Stazione"/>
 		<entry key="TrackEditParam_StationExitSpeed" translation="Velocità di Uscita"/>
 		<entry key="TrackEditParam_StationStopLocation" translation="Posizione Fermata Treno"/>
-		<entry key="TrackEditParam_StopAndHold" translation="Blocca e trattieni"/>
-		<entry key="TrackEditParam_StopAndHoldWaitTime" translation="Attesa"/>
+		<entry key="TrackEditParam_StopAndHold" translation="Stop and Hold"/>
+		<entry key="TrackEditParam_StopAndHoldWaitTime" translation="Wait Time"/>
 		<entry key="TrackEditParam_TrackMeshIndex" translation="Tipo Tracciato"/>
 		<entry key="TrackEditParam_TrackMeshIndex_Tunnel" translation="Luci del Tunnel"/>
 		<entry key="TrackEditParam_TunnelRadius" translation="Raggio del Tunnel"/>
@@ -28772,15 +28772,15 @@
 		<entry key="TrackEdit_Turn" translation="Gira"/>
 		<entry key="TrackEdit_Undo" translation="Annulla"/>
 		<!--TrackElements-->
-		<entry key="ECSDirectionDropdown_CCW" translation="Gira in senso anti-orario"/>
-		<entry key="ECSDirectionDropdown_CW" translation="Gira in senso orario"/>
-		<entry key="ECSDirectionDropdown_Slow" translation="Rotazione lenta"/>
-		<entry key="OptionCatwalkFour_LSM_HoldingSection_0" translation="Nessuna"/>
-		<entry key="OptionCatwalkFour_LSM_HoldingSection_1" translation="Sinistra"/>
-		<entry key="OptionCatwalkFour_LSM_HoldingSection_2" translation="Destra"/>
-		<entry key="OptionCatwalkFour_LSM_HoldingSection_3" translation="Entrambe"/>
-		<entry key="TrackEditParam_ECSDirection" translation="Direzione di rotazione"/>
-		<entry key="TrackEditParam_ECSSpeed" translation="Forza applicata"/>
+		<entry key="ECSDirectionDropdown_CCW" translation="Spin Counter-Clockwise"/>
+		<entry key="ECSDirectionDropdown_CW" translation="Spin Clockwise"/>
+		<entry key="ECSDirectionDropdown_Slow" translation="Slow Rotation"/>
+		<entry key="OptionCatwalkFour_LSM_HoldingSection_0" translation="None"/>
+		<entry key="OptionCatwalkFour_LSM_HoldingSection_1" translation="Left"/>
+		<entry key="OptionCatwalkFour_LSM_HoldingSection_2" translation="Right"/>
+		<entry key="OptionCatwalkFour_LSM_HoldingSection_3" translation="Both"/>
+		<entry key="TrackEditParam_ECSDirection" translation="Spin Direction"/>
+		<entry key="TrackEditParam_ECSSpeed" translation="Force Applied"/>
 		<entry key="TrackEditParam_OptionalBlockMode" translation="Block Section Mode"/>
 		<entry key="TrackElementDesc_BarghestChainLiftBot" translation="Descrizione Partenza Salita a Catena"/>
 		<entry key="TrackElementDesc_BarghestChainLiftMid" translation="Descrizione Parte Centrale Salita a Catena"/>
